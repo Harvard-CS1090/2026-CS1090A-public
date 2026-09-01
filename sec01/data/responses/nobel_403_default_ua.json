@@ -1,0 +1,13 @@
+{
+  "captured": "2026-08-26",
+  "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/all/",
+  "request_user_agent": "python-requests/2.32.3",
+  "status_code": 403,
+  "reason": "What nobelprize.org returns to an unmodified python-requests client.",
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Server": "cloudflare"
+  },
+  "body_first_400": "<!DOCTYPE html>\n<!--[if lt IE 7]> <html class=\"no-js ie6 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 7]>    <html class=\"no-js ie7 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if IE 8]>    <html class=\"no-js ie8 oldie\" lang=\"en-US\"> <![endif]-->\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en-US\"> <!--<![endif]-->\n<head>\n<title>Attention Required! | Cloudflare</title>\n<meta charset=\"UTF-8\" />\n<meta",
+  "body_bytes": 4548
+}

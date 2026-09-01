@@ -1,0 +1,13 @@
+{
+  "captured": "2026-08-26",
+  "url": "https://archive.org/wayback/available?url=nobelprize.org%2Fprizes%2Flists%2Fall-nobel-prizes%2Fall%2F&timestamp=20240101",
+  "request_user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "status_code": 200,
+  "reason": "Wayback availability API: closest snapshot to 2024-01-01.",
+  "headers": {
+    "Server": "nginx/1.31.3",
+    "Content-Type": "application/json"
+  },
+  "body_first_400": "{\"url\": \"nobelprize.org/prizes/lists/all-nobel-prizes/all/\", \"archived_snapshots\": {\"closest\": {\"status\": \"200\", \"available\": true, \"url\": \"http://web.archive.org/web/20240917172458/https://www.nobelprize.org/prizes/lists/all-nobel-prizes/all/\", \"timestamp\": \"20240917172458\"}}, \"timestamp\": \"20240101\"}",
+  "body_bytes": 303
+}

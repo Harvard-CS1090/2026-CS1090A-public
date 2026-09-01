@@ -1,0 +1,15 @@
+{
+  "captured": "2026-08-26",
+  "url": "https://www.nobelprize.org/prizes/lists/all-nobel-prizes/all/",
+  "request_user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "status_code": 200,
+  "reason": "The same URL, same second, with a browser User-Agent.",
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8",
+    "Server": "cloudflare"
+  },
+  "body_first_400": "\t<!DOCTYPE html>\n\t<html lang=\"en-US\" class=\"no-js\">\n\t<head>\n\t\t<meta charset=\"UTF-8\"><script type=\"text/javascript\">(window.NREUM||(NREUM={})).init={privacy:{cookies_enabled:true},ajax:{deny_list:[\"bam.eu01.nr-data.net\"]},feature_flags:[\"soft_nav\"],distributed_tracing:{enabled:true}};(window.NREUM||(NREUM={})).loader_config={agentID:\"212354677\",accountID:\"3196970\",trustKey:\"3196970\",xpid:\"VwcOV19UC",
+  "body_bytes": 676920,
+  "body_file": "all_prizes.html",
+  "note": "Full body lives in data/all_prizes.html -- same fetch, saved whole. body_first_400 is kept so the file is readable on its own."
+}

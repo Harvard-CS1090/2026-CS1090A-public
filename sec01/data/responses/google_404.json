@@ -1,0 +1,12 @@
+{
+  "captured": "2026-08-26",
+  "url": "https://www.google.com/oops",
+  "request_user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "status_code": 404,
+  "reason": "A 404 from a URL that does not exist.",
+  "headers": {
+    "Content-Type": "text/html; charset=UTF-8"
+  },
+  "body_first_400": "<!DOCTYPE html>\n<html lang=en>\n  <meta charset=utf-8>\n  <meta name=viewport content=\"initial-scale=1, minimum-scale=1, width=device-width\">\n  <title>Error 404 (Not Found)!!1</title>\n  <style>\n    *{margin:0;padding:0}html,code{font:15px/22px arial,sans-serif}html{background:#fff;color:#222;padding:15px}body{margin:7% auto 0;max-width:390px;min-height:180px;padding:30px 0 15px}* > body{background:u",
+  "body_bytes": 1565
+}

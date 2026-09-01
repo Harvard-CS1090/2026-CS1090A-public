@@ -1,0 +1,13 @@
+{
+  "captured": "2026-08-26",
+  "url": "https://api.nobelprize.org/2.1/nobelPrizes?limit=2&sort=desc",
+  "request_user_agent": "Mozilla/5.0 (X11; Linux x86_64; rv:127.0) Gecko/20100101 Firefox/127.0",
+  "status_code": 200,
+  "reason": "The official, documented, no-auth API returning the same data as clean JSON.",
+  "headers": {
+    "Content-Type": "application/json;charset=utf-8",
+    "Server": "cloudflare"
+  },
+  "body_first_400": "{\"nobelPrizes\":[{\"awardYear\":\"2025\",\"category\":{\"en\":\"Physiology or Medicine\",\"no\":\"Fysiologi eller medisin\",\"se\":\"Fysiologi eller medicin\"},\"categoryFullName\":{\"en\":\"The Nobel Prize in Physiology or Medicine\",\"no\":\"Nobelprisen i fysiologi eller medisin\",\"se\":\"Nobelpriset i fysiologi eller medicin\"},\"dateAwarded\":\"2025-10-06\",\"prizeAmount\":11000000,\"prizeAmountAdjusted\":11000000,\"links\":[{\"rel\":\"n",
+  "body_bytes": 4299
+}
