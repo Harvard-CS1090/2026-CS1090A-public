@@ -1,5 +1,9 @@
 # CS1090A section dependencies -- generated from pyproject.toml at publish time.
-# pip install -r requirements.txt
+#
+#   uv venv && uv pip install -r requirements.txt
+#
+# Through uv, the way HW0 Part 1 does it -- NOT bare `pip install`, which puts
+# packages in whatever Python your system happens to use. See HW0 Part 1.
 requests>=2.32,<3
 beautifulsoup4>=4.12,<5
 lxml>=5.2,<7
