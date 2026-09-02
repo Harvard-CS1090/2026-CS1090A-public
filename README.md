@@ -11,10 +11,19 @@ Instructors: Pavlos Protopapas, Kevin Rader · Preceptor: Chris Gumb
 ```bash
 git clone --branch sec01-2026 https://github.com/Harvard-CS1090/2026-CS1090A-public
 cd 2026-CS1090A-public/sec01
-jupyter lab
+uv run jupyter lab
 ```
 
-Dependencies are in each section's `requirements.txt`, or use [uv](https://docs.astral.sh/uv/) with the provided `pyproject.toml`.
+That is the whole setup — the same [uv](https://docs.astral.sh/uv/) you installed for HW0. `uv run` reads `pyproject.toml`, builds the environment the first time, and opens JupyterLab. Nothing to activate, nothing to install by hand.
+
+If you'd rather do it the way HW0 Part 1 walked through, each section also ships a `requirements.txt`:
+
+```bash
+uv venv
+uv pip install -r requirements.txt
+source .venv/bin/activate     # Windows: .venv\Scripts\activate
+jupyter lab
+```
 
 **Colab** is the one-click fallback — no local Python needed. The badge below opens the notebook, and its first cell fetches the `data/` folder and helper modules for you. Colab storage is wiped between sessions, so anything you want to keep, download before you close the tab.
 
