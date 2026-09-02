@@ -25,7 +25,9 @@ source .venv/bin/activate     # Windows: .venv\Scripts\activate
 jupyter lab
 ```
 
-**Colab** is the one-click fallback — no local Python needed. The badge below opens the notebook, and its first cell fetches the `data/` folder and helper modules for you. Colab storage is wiped between sessions, so anything you want to keep, download before you close the tab.
+**Colab** is the one-click fallback — no local Python needed. The badge below opens the notebook, and its first cell fetches the `data/` folder and helper modules for you.
+
+**Do `File → Save a copy in Drive` before you start.** Opening from GitHub gives you a notebook you can type in and run straight away, but with nowhere to save it — close the tab and the work is gone. Saving a copy first gives you one that persists. Separately, the *files* Colab creates (your `data/` folder, anything you write to disk) are wiped when the session ends, so download anything you want to keep.
 
 ## Sections
 
