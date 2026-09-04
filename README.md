@@ -9,7 +9,7 @@ Instructors: Pavlos Protopapas, Kevin Rader · Preceptor: Chris Gumb
 **Cloning is the recommended path.** Each notebook reads its inputs from the `data/` folder beside it, so it needs the folder, not just the file:
 
 ```bash
-git clone --branch sec01-2026 https://github.com/Harvard-CS1090/2026-CS1090A-public
+git clone --branch sec01-2026b https://github.com/Harvard-CS1090/2026-CS1090A-public
 cd 2026-CS1090A-public/sec01
 uv run jupyter lab
 ```
@@ -35,7 +35,7 @@ jupyter lab
 
 Fetch a page with `requests`, parse it with BeautifulSoup, cache it to disk, and pin a Wayback snapshot so the result still runs next year.
 
-[Student](sec01/cs1090a_sec01_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec01-2026/sec01/cs1090a_sec01_student.ipynb)
+[Student](sec01/cs1090a_sec01_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec01-2026b/sec01/cs1090a_sec01_student.ipynb)
 
 Supplemental: [mediawiki api](sec01/supplemental/mediawiki_api.ipynb)
 
