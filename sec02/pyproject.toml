@@ -1,0 +1,34 @@
+# CS1090A Section 2 environment -- run the notebook with uv (https://docs.astral.sh/uv/):
+#
+#   uv sync
+#   uv run jupyter lab
+#
+# Deliberately narrow, for the same reason sec01's is: a section notebook is a
+# 75-minute artifact a TF may need to stand up on a strange laptop ten minutes
+# before class. Exactly what the notebook imports, nothing else.
+#
+# pandas IS here, unlike sec01. Section 2 follows Lecture 2, which is where the
+# DataFrame arrives; if you find yourself removing pandas, you are editing the
+# wrong section.
+#
+# Upper bounds keep a mid-semester release from surprising a TF between sections.
+[project]
+name = "cs1090a-sec02"
+version = "2026.0"
+description = "CS1090A Fall 2026 Section 2 -- Pandas and plotting, in service of HW1 Q4/Q5/Q8"
+requires-python = ">=3.12,<3.14"
+
+dependencies = [
+    "pandas>=2.2,<3",
+    "matplotlib>=3.10,<4",
+    "seaborn>=0.13,<0.14",
+    "numpy>=2.0,<3",
+    "jupyterlab>=4",
+]
+
+# Only needed to rebuild the student/solutions notebooks -- not to run the section.
+[project.optional-dependencies]
+authoring = [
+    "nbconvert>=7.16",
+    "nbformat>=5.10",
+]
