@@ -23,7 +23,7 @@ class Recorded:
     """A saved HTTP response. Behaves like the `requests.Response` it came from."""
 
     def __init__(self, name, data_dir=DATA):
-        with open(f"{data_dir}/responses/{name}.json") as f:
+        with open(f"{data_dir}/responses/{name}.json", encoding="utf-8") as f:
             r = json.load(f)
         self.status_code = r["status_code"]
         self.captured = r["captured"]
@@ -32,7 +32,7 @@ class Recorded:
         self.headers = r["headers"]
         # Big bodies are stored whole, next to the notebook, rather than inline.
         if r.get("body_file"):
-            with open(f"{data_dir}/{r['body_file']}") as f:
+            with open(f"{data_dir}/{r['body_file']}", encoding="utf-8") as f:
                 self.text = f.read()
         else:
             self.text = r["body_first_400"]
