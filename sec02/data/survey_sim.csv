@@ -1,301 +1,301 @@
-program,jupyter,python_exp,pandas_skill,os,dark_mode,languages,continents,dob,wake_time,sleep_time,fav_season,caffeine,pet,fav_movie,fav_genres,hobbies,hw0
-master's (ds),False,less than 1 year,3,macos,True,english,"asia, north america",2000-09-24,1900-01-01 07:30:00,1900-01-01 03:00:00,summer,tea,pet rock,,comedy,"reading, hiking",
-master's (ds),False,1-2 years,3,wsl,True,"english, cantonese, portuguese, hindi","asia, north america",2004-08-08,1900-01-01 10:00:00,1900-01-01 23:15:00,spring,coffee,dog,Oppenheimer,drama,climbing,😀
-mit master's,True,1-2 years,3,macos,False,"english, french, portuguese",north america,2008-01-07,1900-01-01 06:30:00,1900-01-01 00:00:00,spring,tea,none,Oppenheimer,"action, sci-fi",climbing,🤞
-bachelor's (cs),False,1-2 years,2,macos,True,"english, cantonese, mandarin, hindi","asia, north america",2008-01-07,1900-01-01 08:30:00,1900-01-01 22:15:00,summer,tea,pet rock,Parasite,comedy,climbing,🤞
-master's (ds) [extension school],True,1-2 years,3,windows,False,"english, hindi, mandarin","africa, asia, europe",2003-08-08,1900-01-01 08:15:00,1900-01-01 23:30:00,summer,tea,fish,,sci-fi,"reading, hiking",
-master's (ds),True,2-4 years,3,macos,True,"english, spanish","europe, north america",1990-01-15,1900-01-01 07:15:00,1900-01-01 22:30:00,spring,tea,none,La La Land,horror,climbing,🤞
-phd,True,4+ years,4,macos,True,"english, portuguese","africa, asia, europe",1989-12-17,1900-01-01 10:00:00,1900-01-01 00:45:00,fall,energy drinks,none,Interstellar,"comedy, drama","cooking, movies",😀
-master's (ds),True,less than 1 year,1,macos,True,english,"europe, north america",1999-12-24,1900-01-01 06:30:00,1900-01-01 03:45:00,summer,no caffeine for me!,dog,The Matrix,"comedy, drama","cooking, movies",🤞
-bachelor's (am),True,2-4 years,3,macos,False,"english, portuguese, korean, german","europe, north america",1992-04-24,1900-01-01 06:00:00,1900-01-01 23:30:00,winter,coffee,none,,horror,,😀
-master's (ds) [extension school],True,less than 1 year,1,linux,True,english,"africa, asia, europe",1999-11-15,1900-01-01 06:15:00,1900-01-01 00:15:00,fall,no caffeine for me!,fish,Oppenheimer,horror,"cooking, movies",
-bachelor's (statistics),True,4+ years,4,windows,True,"english, japanese","africa, asia, europe",2007-03-07,1900-01-01 06:00:00,1900-01-01 22:15:00,spring,no caffeine for me!,,The Matrix,horror,"cooking, movies",
-bachelor's (cs),False,4+ years,4,windows,True,english,north america,1999-06-01,1900-01-01 11:00:00,1900-01-01 23:45:00,summer,coffee,fish,Oppenheimer,"comedy, drama","music, running",
-master's (ds),False,1-2 years,3,macos,True,"english, hindi",north america,2000-02-07,1900-01-01 07:00:00,1900-01-01 22:30:00,fall,coffee,pet rock,Spirited Away,sci-fi,climbing,
-master's (ds) [extension school],True,2-4 years,5,macos,False,"english, spanish, portuguese","africa, asia, europe",2006-03-09,1900-01-01 07:45:00,1900-01-01 22:30:00,fall,coffee,none,Interstellar,comedy,"reading, hiking",😀
-master's (ds) [extension school],True,1-2 years,3,i use google colab,True,"english, spanish","europe, north america",2005-09-07,1900-01-01 10:15:00,1900-01-01 22:45:00,spring,coffee,pet rock,,horror,"reading, hiking",🤞
-bachelor's (am),True,2-4 years,3,i use google colab,True,english,north america,2000-03-18,1900-01-01 06:45:00,1900-01-01 00:15:00,summer,tea,pet rock,Oppenheimer,drama,"music, running",😀
-master's (ds),True,1-2 years,2,windows,False,english,"africa, asia, europe",2002-03-17,1900-01-01 07:45:00,1900-01-01 23:30:00,spring,tea,fish,The Matrix,horror,climbing,
-master's (ds),True,less than 1 year,1,windows,False,english,north america,2003-04-13,1900-01-01 11:15:00,1900-01-01 00:30:00,fall,coffee,dog,Oppenheimer,comedy,gaming,😀
-bachelor's (statistics),True,less than 1 year,2,macos,True,"english, korean","europe, north america",2005-03-17,1900-01-01 11:00:00,1900-01-01 00:45:00,fall,coffee,pet rock,Parasite,"action, sci-fi",gaming,😀
-master's (ds) [extension school],True,less than 1 year,3,macos,False,"english, russian","europe, north america",1995-05-06,1900-01-01 11:15:00,1900-01-01 23:15:00,fall,coffee,pet rock,Interstellar,drama,climbing,🤞
-hks master's,True,1-2 years,2,windows,True,"english, spanish",north america,2005-06-08,1900-01-01 07:30:00,1900-01-01 01:30:00,winter,tea,cat,Oppenheimer,"comedy, drama",,
-bachelor's (statistics),False,1-2 years,4,macos,False,"english, cantonese",north america,1992-01-10,1900-01-01 08:45:00,1900-01-01 00:30:00,fall,tea,dog,La La Land,sci-fi,"music, running",😀
-bachelor's (cs),True,2-4 years,3,macos,True,"english, mandarin","europe, north america",2003-11-12,1900-01-01 09:45:00,1900-01-01 01:15:00,spring,coffee,none,,drama,"cooking, movies",🤞
-master's (ds),True,less than 1 year,1,windows,True,"english, portuguese","europe, north america",2008-04-12,1900-01-01 07:15:00,1900-01-01 01:15:00,fall,tea,none,Oppenheimer,comedy,"music, running",🤞
-phd,True,1-2 years,2,macos,True,english,north america,1996-06-27,1900-01-01 06:15:00,1900-01-01 00:00:00,summer,coffee,pet rock,Spirited Away,horror,,😀
-master's (ds),True,1-2 years,2,i use google colab,False,"english, portuguese","asia, north america",2006-01-01,1900-01-01 07:30:00,1900-01-01 00:15:00,winter,tea,fish,,"action, sci-fi","reading, hiking",😀
-hks master's,False,less than 1 year,1,macos,False,english,"asia, north america",,1900-01-01 06:30:00,1900-01-01 01:30:00,fall,coffee,dog,La La Land,horror,"cooking, movies",🤞
-mit master's,True,1-2 years,3,windows,True,english,"africa, asia, europe",1999-01-17,1900-01-01 09:45:00,1900-01-01 00:00:00,summer,tea,none,La La Land,drama,"music, running",
-master's (ds),False,1-2 years,2,macos,True,,"europe, north america",2002-04-01,1900-01-01 11:30:00,1900-01-01 00:15:00,fall,coffee,,Oppenheimer,"action, sci-fi","cooking, movies",
-master's (ds),True,less than 1 year,2,windows,False,"english, spanish, hindi","africa, asia, europe",1997-11-23,1900-01-01 07:45:00,1900-01-01 22:15:00,winter,tea,none,Interstellar,drama,"cooking, movies",😴
-bachelor's (cs),False,less than 1 year,2,macos,False,english,north america,2001-02-12,1900-01-01 06:15:00,1900-01-01 23:30:00,winter,no caffeine for me!,cat,The Matrix,"action, sci-fi",,
-bachelor's (statistics),True,4+ years,3,macos,True,"english, portuguese, german","asia, north america",2003-09-05,1900-01-01 07:30:00,1900-01-01 00:45:00,summer,coffee,pet rock,Interstellar,"action, sci-fi",,😴
-master's (ds) [extension school],False,2-4 years,2,windows,True,"english, spanish, mandarin","europe, north america",2006-10-25,1900-01-01 09:00:00,1900-01-01 22:00:00,fall,tea,,The Matrix,comedy,climbing,🤞
-bachelor's (statistics),True,1-2 years,2,wsl,True,"english, portuguese","europe, north america",2006-10-22,1900-01-01 11:45:00,1900-01-01 00:30:00,summer,coffee,dog,Parasite,comedy,"reading, hiking",
-bachelor's (cs),True,less than 1 year,2,windows,True,"english, spanish",north america,2007-02-10,1900-01-01 11:30:00,1900-01-01 00:00:00,winter,coffee,cat,,"action, sci-fi",,
-bachelor's (cs),True,4+ years,3,macos,True,english,north america,2002-09-11,1900-01-01 06:00:00,1900-01-01 23:30:00,summer,coffee,fish,Parasite,drama,"cooking, movies",😴
-bachelor's (cs),True,1-2 years,2,macos,True,"english, german, french, cantonese",north america,2007-12-02,1900-01-01 06:15:00,1900-01-01 23:00:00,spring,tea,fish,Interstellar,"comedy, drama",gaming,😀
-master's (ds),True,1-2 years,2,macos,True,"english, hindi","europe, north america",2007-04-08,1900-01-01 07:45:00,,spring,no caffeine for me!,dog,Parasite,,"reading, hiking",😴
-mit master's,True,4+ years,4,macos,True,english,north america,,1900-01-01 07:30:00,1900-01-01 22:45:00,fall,coffee,pet rock,Spirited Away,"comedy, drama","reading, hiking",😀
-bachelor's (statistics),False,less than 1 year,1,macos,True,"english, french","africa, asia, europe",1993-08-16,1900-01-01 06:00:00,1900-01-01 22:30:00,summer,coffee,dog,The Matrix,"comedy, drama","reading, hiking",
-master's (ds) [extension school],True,2-4 years,3,i use google colab,True,english,"asia, north america",2000-11-08,1900-01-01 08:45:00,1900-01-01 02:15:00,fall,coffee,pet rock,Spirited Away,"action, sci-fi",gaming,🤞
-bachelor's (cs),True,less than 1 year,1,macos,True,,"europe, north america",2005-11-05,1900-01-01 06:15:00,1900-01-01 00:15:00,fall,coffee,dog,Spirited Away,,"music, running",
-master's (ds) [extension school],True,less than 1 year,1,macos,False,"english, korean","asia, north america",2003-03-10,1900-01-01 11:30:00,1900-01-01 00:15:00,fall,no caffeine for me!,cat,Oppenheimer,horror,"reading, hiking",😀
-mit master's,True,2-4 years,3,macos,True,english,"asia, north america",1997-12-09,1900-01-01 06:30:00,1900-01-01 01:15:00,winter,tea,fish,Interstellar,drama,"reading, hiking",🤞
-bachelor's (am),True,less than 1 year,1,macos,True,english,"asia, north america",2007-06-24,1900-01-01 09:00:00,1900-01-01 23:45:00,spring,tea,none,,drama,gaming,
-bachelor's (am),True,1-2 years,4,windows,False,"english, cantonese","asia, north america",2004-05-22,1900-01-01 11:15:00,1900-01-01 00:45:00,winter,tea,dog,Interstellar,"comedy, drama","music, running",
-mit master's,True,1-2 years,2,macos,True,"english, russian, portuguese, cantonese","africa, asia, europe",1995-01-22,1900-01-01 09:45:00,1900-01-01 00:00:00,fall,tea,none,,"action, sci-fi","music, running",
-bachelor's (cs),True,less than 1 year,2,macos,True,english,"asia, north america",2006-11-12,1900-01-01 11:45:00,1900-01-01 23:45:00,fall,tea,none,,horror,"cooking, movies",
-mit master's,True,2-4 years,3,windows,False,"english, french","europe, north america",2002-01-19,1900-01-01 08:00:00,1900-01-01 23:45:00,fall,no caffeine for me!,fish,The Matrix,drama,,🤞
-mit master's,True,1-2 years,2,wsl,False,"english, cantonese, korean","africa, asia, europe",2000-09-26,1900-01-01 11:30:00,1900-01-01 23:15:00,summer,energy drinks,fish,La La Land,,"reading, hiking",
-mit master's,True,1-2 years,1,macos,True,"english, spanish, mandarin","europe, north america",2002-12-10,1900-01-01 06:45:00,1900-01-01 22:15:00,spring,tea,pet rock,Parasite,drama,"cooking, movies",😴
-phd,False,1-2 years,2,macos,False,"english, korean, japanese","europe, north america",2003-03-08,1900-01-01 08:45:00,1900-01-01 00:30:00,summer,tea,none,,drama,"music, running",😴
-bachelor's (am),True,1-2 years,3,windows,True,english,"asia, north america",2008-01-06,,1900-01-01 02:00:00,summer,coffee,fish,La La Land,,"music, running",😀
-master's (ds),True,1-2 years,2,macos,False,english,north america,2004-07-07,1900-01-01 11:15:00,1900-01-01 02:15:00,winter,no caffeine for me!,cat,Interstellar,comedy,"reading, hiking",😀
-bachelor's (am),True,1-2 years,2,macos,False,english,north america,1999-11-03,1900-01-01 11:45:00,1900-01-01 00:30:00,fall,coffee,none,The Matrix,"action, sci-fi","cooking, movies",😀
-bachelor's (statistics),True,2-4 years,1,macos,True,"english, japanese, korean, russian","asia, north america",2001-04-15,1900-01-01 11:30:00,1900-01-01 23:30:00,winter,tea,dog,The Matrix,"comedy, drama","reading, hiking",🤞
-hks master's,False,1-2 years,2,wsl,True,"english, korean","asia, north america",1993-09-08,1900-01-01 08:45:00,1900-01-01 22:00:00,winter,no caffeine for me!,dog,,"action, sci-fi",gaming,😀
-bachelor's (cs),True,1-2 years,3,windows,True,"english, mandarin","asia, north america",2000-03-22,1900-01-01 07:00:00,1900-01-01 00:15:00,summer,coffee,cat,The Matrix,"comedy, drama","music, running",
-bachelor's (cs),False,less than 1 year,2,macos,True,english,"africa, asia, europe",2006-05-19,1900-01-01 11:15:00,1900-01-01 23:00:00,spring,,dog,Oppenheimer,comedy,"reading, hiking",
-mit master's,True,2-4 years,3,macos,True,"english, spanish","asia, north america",2001-06-22,1900-01-01 09:00:00,1900-01-01 23:45:00,spring,coffee,pet rock,Parasite,horror,"cooking, movies",🤞
-mit master's,False,1-2 years,2,i use google colab,True,english,"europe, north america",2006-06-09,1900-01-01 06:00:00,1900-01-01 00:15:00,fall,no caffeine for me!,pet rock,Oppenheimer,drama,gaming,
-bachelor's (cs),False,less than 1 year,1,macos,True,"english, spanish, portuguese","africa, asia, europe",2000-08-07,1900-01-01 09:30:00,1900-01-01 22:45:00,fall,coffee,cat,,comedy,climbing,
-hks master's,True,1-2 years,3,macos,True,"english, russian, german","europe, north america",2004-02-17,1900-01-01 09:30:00,1900-01-01 00:15:00,fall,coffee,dog,Oppenheimer,"comedy, drama",climbing,😴
-master's (ds) [extension school],False,less than 1 year,1,windows,False,"english, mandarin","africa, asia, europe",1990-01-06,1900-01-01 07:45:00,1900-01-01 00:30:00,winter,coffee,fish,Interstellar,sci-fi,climbing,
-master's (ds) [extension school],False,4+ years,2,linux,True,"english, russian","africa, asia, europe",1995-04-04,1900-01-01 09:15:00,1900-01-01 22:15:00,summer,no caffeine for me!,fish,Parasite,drama,gaming,
-master's (ds),True,4+ years,4,macos,True,"english, spanish, russian, german","asia, north america",2001-04-09,1900-01-01 10:15:00,1900-01-01 00:00:00,summer,tea,dog,Spirited Away,"comedy, drama",climbing,😀
-bachelor's (statistics),True,less than 1 year,1,windows,True,"english, hindi, korean","asia, north america",2007-09-12,1900-01-01 09:30:00,1900-01-01 00:45:00,fall,tea,pet rock,Parasite,drama,,😴
-bachelor's (cs),False,1-2 years,4,macos,True,"english, mandarin, japanese","europe, north america",2005-05-11,1900-01-01 09:30:00,1900-01-01 23:15:00,winter,tea,dog,,"comedy, drama",gaming,
-bachelor's (statistics),False,2-4 years,4,wsl,False,"english, korean",north america,1998-10-27,1900-01-01 06:15:00,1900-01-01 23:00:00,fall,tea,pet rock,Oppenheimer,horror,"music, running",
-bachelor's (statistics),False,less than 1 year,2,macos,True,english,north america,1999-03-06,1900-01-01 07:45:00,1900-01-01 22:15:00,fall,energy drinks,none,Parasite,"action, sci-fi",,😀
-bachelor's (cs),True,1-2 years,3,macos,True,"english, korean, cantonese",north america,1988-01-27,1900-01-01 09:45:00,1900-01-01 02:00:00,summer,coffee,cat,Spirited Away,drama,,
-bachelor's (cs),False,1-2 years,4,windows,True,"english, russian","asia, north america",2004-09-05,1900-01-01 10:00:00,1900-01-01 23:15:00,summer,no caffeine for me!,fish,The Matrix,sci-fi,"cooking, movies",🤞
-bachelor's (cs),False,2-4 years,2,i use google colab,False,"english, spanish","europe, north america",2008-06-24,1900-01-01 09:45:00,1900-01-01 22:00:00,summer,coffee,cat,,drama,climbing,😀
-bachelor's (am),False,4+ years,4,windows,True,"english, cantonese, german, spanish","europe, north america",2004-03-21,1900-01-01 08:45:00,,summer,coffee,cat,,"action, sci-fi","cooking, movies",
-master's (ds) [extension school],False,4+ years,4,windows,True,"english, hindi, japanese","europe, north america",2005-08-24,1900-01-01 10:30:00,1900-01-01 23:30:00,fall,energy drinks,fish,Oppenheimer,"comedy, drama",gaming,😀
-master's (ds),False,1-2 years,2,macos,True,"english, portuguese","asia, north america",2000-08-09,1900-01-01 06:45:00,1900-01-01 01:30:00,fall,coffee,pet rock,La La Land,"action, sci-fi",climbing,
-master's (ds),False,less than 1 year,3,macos,True,"english, german",north america,2006-05-17,1900-01-01 07:30:00,1900-01-01 22:45:00,fall,coffee,fish,La La Land,"action, sci-fi",climbing,🤞
-master's (ds) [extension school],True,4+ years,3,windows,False,english,"asia, north america",2002-10-26,1900-01-01 08:30:00,1900-01-01 00:15:00,summer,coffee,pet rock,,,climbing,🤞
-phd,True,less than 1 year,1,macos,True,"english, hindi","africa, asia, europe",2005-11-11,1900-01-01 11:30:00,1900-01-01 02:00:00,spring,energy drinks,dog,The Matrix,drama,climbing,😀
-bachelor's (am),True,less than 1 year,2,i use google colab,True,english,"europe, north america",,1900-01-01 06:15:00,1900-01-01 23:00:00,fall,energy drinks,dog,Interstellar,drama,"cooking, movies",🤞
-master's (ds),True,less than 1 year,2,i use google colab,True,english,"europe, north america",2024-12-22,,1900-01-01 00:15:00,summer,tea,dog,,"comedy, drama",climbing,
-mit master's,True,2-4 years,3,windows,False,"english, portuguese, japanese",north america,1999-03-01,1900-01-01 08:45:00,1900-01-01 22:45:00,spring,energy drinks,pet rock,La La Land,comedy,"music, running",
-bachelor's (cs),True,1-2 years,2,macos,True,"english, russian, spanish, portuguese","asia, north america",2000-05-17,1900-01-01 07:15:00,1900-01-01 23:30:00,fall,energy drinks,pet rock,Spirited Away,drama,"music, running",
-master's (ds),True,less than 1 year,2,i use google colab,False,"english, mandarin","asia, north america",1999-03-20,1900-01-01 07:45:00,1900-01-01 23:00:00,spring,coffee,dog,Oppenheimer,horror,gaming,
-master's (ds) [extension school],False,less than 1 year,1,windows,True,"english, mandarin, french",north america,2001-06-02,1900-01-01 08:45:00,1900-01-01 00:15:00,fall,tea,fish,La La Land,sci-fi,"cooking, movies",
-bachelor's (am),True,1-2 years,2,windows,True,"english, russian","europe, north america",1998-04-05,1900-01-01 06:15:00,1900-01-01 23:45:00,spring,tea,cat,Interstellar,horror,"reading, hiking",😀
-master's (ds),False,1-2 years,2,macos,False,english,"africa, asia, europe",2003-12-25,1900-01-01 09:45:00,1900-01-01 01:15:00,summer,energy drinks,pet rock,,"action, sci-fi",climbing,
-phd,True,1-2 years,2,windows,False,"english, korean","europe, north america",,1900-01-01 06:15:00,1900-01-01 00:00:00,summer,tea,fish,The Matrix,sci-fi,"music, running",🤞
-master's (ds) [extension school],True,1-2 years,2,linux,True,english,north america,1998-07-14,1900-01-01 10:15:00,1900-01-01 00:00:00,fall,coffee,pet rock,Spirited Away,,gaming,
-bachelor's (am),True,4+ years,5,macos,False,"english, spanish, french","africa, asia, europe",2006-04-12,1900-01-01 06:30:00,1900-01-01 23:15:00,winter,tea,cat,,drama,climbing,😴
-master's (ds),False,4+ years,4,macos,True,"english, korean, portuguese",north america,2004-03-08,1900-01-01 07:45:00,1900-01-01 00:15:00,fall,tea,fish,The Matrix,drama,,😀
-master's (ds),True,less than 1 year,2,macos,True,"english, mandarin, german, spanish",north america,2008-09-02,1900-01-01 10:30:00,1900-01-01 23:15:00,fall,coffee,fish,The Matrix,"action, sci-fi",climbing,🤞
-bachelor's (statistics),False,4+ years,3,linux,True,,north america,2007-05-10,1900-01-01 10:45:00,1900-01-01 23:30:00,winter,coffee,none,The Matrix,"action, sci-fi",,😀
-bachelor's (cs),False,2-4 years,4,macos,True,"english, russian, german, korean","africa, asia, europe",2008-06-25,1900-01-01 11:00:00,1900-01-01 23:30:00,fall,coffee,none,Spirited Away,,"reading, hiking",
-mit master's,True,1-2 years,3,windows,True,"english, korean","europe, north america",2007-11-21,1900-01-01 07:15:00,1900-01-01 22:30:00,winter,no caffeine for me!,cat,La La Land,"comedy, drama",gaming,🤞
-bachelor's (am),False,2-4 years,4,windows,False,english,north america,2007-01-08,1900-01-01 07:45:00,1900-01-01 02:45:00,fall,coffee,pet rock,,comedy,climbing,
-bachelor's (statistics),True,1-2 years,4,windows,False,english,"africa, asia, europe",2008-02-03,1900-01-01 07:45:00,1900-01-01 22:00:00,,coffee,pet rock,,horror,"music, running",😀
-bachelor's (cs),True,4+ years,3,macos,True,english,"europe, north america",2008-03-17,1900-01-01 08:30:00,1900-01-01 22:15:00,fall,tea,dog,The Matrix,drama,"cooking, movies",🤞
-bachelor's (statistics),False,less than 1 year,1,wsl,True,"english, hindi","africa, asia, europe",2000-03-19,1900-01-01 11:15:00,1900-01-01 22:00:00,winter,tea,pet rock,Parasite,horror,,😀
-master's (ds),True,1-2 years,2,macos,True,"english, german, portuguese","asia, north america",1995-03-07,1900-01-01 11:15:00,1900-01-01 23:30:00,fall,coffee,pet rock,La La Land,horror,"cooking, movies",😀
-bachelor's (am),True,2-4 years,3,linux,False,"english, hindi","asia, north america",2008-01-16,1900-01-01 11:30:00,1900-01-01 00:00:00,summer,coffee,dog,Oppenheimer,"comedy, drama","music, running",😀
-bachelor's (statistics),False,less than 1 year,2,macos,False,english,"africa, asia, europe",2000-10-16,1900-01-01 08:15:00,1900-01-01 23:00:00,spring,no caffeine for me!,pet rock,Oppenheimer,comedy,"cooking, movies",😀
-bachelor's (cs),True,1-2 years,2,windows,False,"english, french",north america,2007-08-10,1900-01-01 11:30:00,1900-01-01 00:45:00,fall,coffee,cat,La La Land,comedy,"reading, hiking",😀
-hks master's,True,1-2 years,2,macos,True,"english, japanese",north america,2008-02-24,1900-01-01 09:30:00,1900-01-01 23:00:00,fall,no caffeine for me!,fish,Oppenheimer,"comedy, drama",gaming,😴
-bachelor's (cs),True,2-4 years,4,macos,True,"english, hindi, french, portuguese","asia, north america",2004-10-23,1900-01-01 11:00:00,1900-01-01 22:00:00,fall,coffee,pet rock,Interstellar,comedy,climbing,🤞
-mit master's,True,less than 1 year,2,linux,True,"english, spanish",north america,1999-02-05,1900-01-01 10:15:00,1900-01-01 23:15:00,summer,coffee,,The Matrix,drama,gaming,😀
-bachelor's (cs),True,1-2 years,3,macos,True,english,"europe, north america",2004-03-04,1900-01-01 10:45:00,1900-01-01 23:15:00,fall,coffee,fish,Interstellar,horror,"cooking, movies",😀
-bachelor's (am),False,4+ years,2,windows,False,"english, korean, german, hindi","europe, north america",2006-08-12,1900-01-01 09:30:00,1900-01-01 00:15:00,fall,coffee,fish,Parasite,comedy,"cooking, movies",😀
-master's (ds) [extension school],True,1-2 years,1,windows,True,"english, spanish, portuguese, japanese","asia, north america",1996-10-15,1900-01-01 11:00:00,1900-01-01 23:00:00,summer,tea,none,,"comedy, drama",climbing,
-master's (ds),True,less than 1 year,3,macos,True,"english, german","africa, asia, europe",2007-02-15,1900-01-01 11:00:00,1900-01-01 23:15:00,summer,tea,dog,The Matrix,sci-fi,gaming,😀
-master's (ds),True,2-4 years,4,windows,True,english,"europe, north america",2005-01-12,1900-01-01 09:30:00,1900-01-01 23:45:00,spring,coffee,dog,Parasite,drama,climbing,
-bachelor's (cs),True,less than 1 year,2,i use google colab,True,"english, german, portuguese, french","africa, asia, europe",2008-09-03,1900-01-01 06:15:00,1900-01-01 22:15:00,fall,coffee,dog,Oppenheimer,sci-fi,"music, running",🤞
-phd,True,2-4 years,3,macos,True,english,"africa, asia, europe",2000-11-13,1900-01-01 08:15:00,1900-01-01 23:15:00,summer,tea,fish,Interstellar,"comedy, drama",gaming,
-master's (ds),True,less than 1 year,1,linux,True,"english, cantonese, spanish","africa, asia, europe",,1900-01-01 06:45:00,1900-01-01 00:30:00,,no caffeine for me!,none,,sci-fi,climbing,
-mit master's,True,less than 1 year,2,macos,True,"english, spanish, mandarin","europe, north america",1997-08-24,1900-01-01 11:30:00,1900-01-01 03:45:00,summer,coffee,none,,sci-fi,gaming,
-hks master's,False,less than 1 year,1,windows,True,english,"europe, north america",2005-08-27,1900-01-01 11:00:00,1900-01-01 23:00:00,spring,tea,cat,Oppenheimer,horror,"reading, hiking",😴
-master's (ds),True,less than 1 year,1,macos,True,english,"asia, north america",2008-01-09,1900-01-01 06:00:00,1900-01-01 23:30:00,fall,tea,dog,Parasite,comedy,,🤞
-master's (ds) [extension school],True,1-2 years,2,macos,True,english,"africa, asia, europe",2003-05-22,1900-01-01 09:30:00,1900-01-01 23:15:00,summer,coffee,cat,,"comedy, drama","reading, hiking",😀
-hks master's,True,less than 1 year,2,windows,False,"english, german, korean, french","asia, north america",1995-01-02,1900-01-01 09:45:00,1900-01-01 23:00:00,fall,coffee,fish,Oppenheimer,sci-fi,"cooking, movies",😀
-master's (ds),True,1-2 years,3,macos,False,english,north america,2008-01-14,1900-01-01 08:30:00,1900-01-01 01:15:00,fall,,dog,Parasite,comedy,,😴
-master's (ds),False,2-4 years,4,wsl,True,english,"asia, north america",2003-03-11,1900-01-01 08:30:00,1900-01-01 22:30:00,summer,energy drinks,pet rock,Spirited Away,"action, sci-fi","cooking, movies",
-bachelor's (am),True,4+ years,4,windows,False,"english, german, spanish","asia, north america",1999-09-06,1900-01-01 11:30:00,1900-01-01 23:45:00,fall,tea,none,Interstellar,comedy,,😀
-bachelor's (am),True,1-2 years,3,macos,True,"english, portuguese, german","europe, north america",2007-08-10,1900-01-01 07:30:00,1900-01-01 02:45:00,fall,tea,cat,Parasite,sci-fi,climbing,
-master's (ds),False,less than 1 year,3,windows,True,"english, portuguese, spanish",north america,2006-01-03,1900-01-01 11:00:00,1900-01-01 00:00:00,fall,coffee,none,,"action, sci-fi","music, running",🤞
-master's (ds),True,less than 1 year,1,macos,True,"english, japanese, cantonese, hindi","africa, asia, europe",2008-12-12,1900-01-01 08:15:00,1900-01-01 00:15:00,fall,coffee,pet rock,Interstellar,horror,"reading, hiking",
-bachelor's (cs),True,less than 1 year,1,windows,True,"english, german, mandarin, spanish","europe, north america",,1900-01-01 11:45:00,1900-01-01 00:00:00,spring,tea,fish,Oppenheimer,horror,"cooking, movies",
-bachelor's (cs),True,2-4 years,3,linux,True,,"africa, asia, europe",1998-01-01,1900-01-01 11:15:00,1900-01-01 22:15:00,fall,coffee,dog,Interstellar,drama,"music, running",😀
-bachelor's (statistics),True,2-4 years,3,linux,False,english,"asia, north america",2003-11-20,1900-01-01 06:15:00,1900-01-01 00:00:00,summer,coffee,dog,,drama,"music, running",
-bachelor's (statistics),True,1-2 years,4,macos,False,english,north america,2002-12-14,1900-01-01 08:30:00,1900-01-01 23:00:00,winter,coffee,none,La La Land,drama,climbing,
-master's (ds),True,1-2 years,2,macos,False,"english, portuguese","europe, north america",2002-03-21,1900-01-01 08:00:00,1900-01-01 22:30:00,fall,tea,dog,Spirited Away,horror,"cooking, movies",🤞
-hks master's,True,4+ years,5,windows,False,"english, korean, russian, french",north america,1986-06-14,1900-01-01 07:00:00,1900-01-01 23:45:00,fall,coffee,fish,La La Land,horror,"music, running",😴
-bachelor's (cs),True,2-4 years,3,macos,True,"english, spanish, hindi, french","asia, north america",1999-06-13,1900-01-01 10:00:00,,summer,no caffeine for me!,dog,Interstellar,comedy,"reading, hiking",
-master's (ds) [extension school],True,2-4 years,3,i use google colab,False,english,north america,1999-08-08,1900-01-01 07:45:00,1900-01-01 00:45:00,fall,coffee,fish,Interstellar,horror,climbing,😴
-bachelor's (statistics),True,4+ years,4,windows,False,english,"africa, asia, europe",1991-09-02,1900-01-01 08:30:00,1900-01-01 00:30:00,summer,coffee,pet rock,Spirited Away,"comedy, drama","cooking, movies",
-master's (ds),False,less than 1 year,2,windows,True,"english, mandarin, japanese",north america,2000-09-17,1900-01-01 10:00:00,1900-01-01 23:15:00,fall,coffee,dog,Spirited Away,comedy,gaming,😀
-bachelor's (cs),False,2-4 years,4,windows,True,,"asia, north america",2001-04-16,1900-01-01 10:30:00,1900-01-01 00:30:00,winter,coffee,fish,The Matrix,drama,climbing,
-master's (ds),True,2-4 years,3,linux,True,"english, japanese","africa, asia, europe",2004-04-13,1900-01-01 06:00:00,1900-01-01 23:00:00,winter,coffee,fish,The Matrix,comedy,"cooking, movies",😀
-bachelor's (am),False,2-4 years,4,macos,True,english,north america,2002-08-14,1900-01-01 10:30:00,1900-01-01 23:15:00,fall,coffee,pet rock,Oppenheimer,"comedy, drama","reading, hiking",🤞
-master's (ds) [extension school],True,less than 1 year,2,windows,False,english,north america,2001-03-02,,1900-01-01 00:30:00,summer,coffee,pet rock,,drama,"reading, hiking",
-bachelor's (cs),True,2-4 years,3,macos,False,"english, japanese, portuguese",north america,1995-01-02,1900-01-01 10:45:00,1900-01-01 23:45:00,spring,tea,dog,Interstellar,,gaming,🤞
-bachelor's (am),True,1-2 years,3,i use google colab,True,"english, portuguese",north america,1999-06-23,,1900-01-01 00:00:00,summer,tea,dog,Oppenheimer,comedy,gaming,
-phd,True,1-2 years,2,linux,True,english,"europe, north america",2000-04-11,1900-01-01 07:15:00,,winter,coffee,cat,Oppenheimer,comedy,gaming,🤞
-master's (ds),True,less than 1 year,2,macos,True,"english, russian","asia, north america",1995-10-11,,1900-01-01 00:45:00,winter,energy drinks,none,,,"music, running",😀
-bachelor's (cs),False,1-2 years,1,macos,True,"english, portuguese","europe, north america",1999-04-18,1900-01-01 10:00:00,1900-01-01 00:15:00,winter,tea,fish,,sci-fi,"music, running",
-phd,True,4+ years,4,linux,True,"english, spanish, korean, japanese","africa, asia, europe",2001-12-17,1900-01-01 07:30:00,1900-01-01 23:30:00,summer,tea,dog,Parasite,"comedy, drama",climbing,
-bachelor's (cs),False,less than 1 year,4,windows,True,"english, cantonese, japanese, spanish","africa, asia, europe",1998-09-04,1900-01-01 11:15:00,1900-01-01 23:15:00,summer,tea,cat,Oppenheimer,"comedy, drama",gaming,😀
-bachelor's (cs),True,less than 1 year,3,macos,False,"english, japanese","asia, north america",1999-10-14,1900-01-01 08:15:00,1900-01-01 22:15:00,fall,coffee,none,,horror,"cooking, movies",😀
-bachelor's (cs),False,1-2 years,3,macos,False,"english, korean, spanish",north america,2006-08-08,1900-01-01 08:00:00,1900-01-01 00:30:00,spring,tea,cat,Parasite,horror,"reading, hiking",🤞
-master's (ds) [extension school],True,less than 1 year,1,windows,True,english,"africa, asia, europe",2000-12-14,1900-01-01 07:15:00,1900-01-01 23:00:00,summer,tea,fish,La La Land,drama,"cooking, movies",🤞
-phd,True,less than 1 year,2,windows,True,english,north america,2000-09-07,1900-01-01 07:30:00,1900-01-01 23:15:00,spring,no caffeine for me!,none,The Matrix,sci-fi,"music, running",
-phd,False,4+ years,5,macos,True,english,"europe, north america",2006-12-19,1900-01-01 11:00:00,,fall,tea,none,,sci-fi,"reading, hiking",
-master's (ds),False,less than 1 year,2,macos,True,"english, german, spanish","asia, north america",2005-11-20,1900-01-01 09:45:00,1900-01-01 23:45:00,winter,no caffeine for me!,none,Oppenheimer,"comedy, drama","music, running",😴
-phd,True,1-2 years,3,linux,False,english,"africa, asia, europe",2005-09-11,1900-01-01 09:30:00,1900-01-01 23:00:00,summer,tea,fish,,"comedy, drama",,
-mit master's,True,less than 1 year,1,linux,True,"english, german, hindi",north america,2003-12-11,1900-01-01 07:15:00,1900-01-01 23:45:00,summer,tea,dog,,"comedy, drama",climbing,🤞
-bachelor's (am),False,2-4 years,2,windows,False,,"asia, north america",1989-01-12,1900-01-01 08:45:00,1900-01-01 00:45:00,summer,coffee,cat,,"action, sci-fi","reading, hiking",
-master's (ds),True,less than 1 year,1,linux,False,english,"europe, north america",2007-02-18,1900-01-01 08:15:00,1900-01-01 00:15:00,fall,energy drinks,pet rock,Spirited Away,sci-fi,"reading, hiking",😀
-mit master's,True,2-4 years,5,windows,False,"english, japanese","asia, north america",2004-09-07,1900-01-01 10:00:00,1900-01-01 00:15:00,summer,no caffeine for me!,pet rock,The Matrix,"action, sci-fi",climbing,😀
-bachelor's (am),False,1-2 years,3,linux,False,"english, japanese","africa, asia, europe",,1900-01-01 08:15:00,1900-01-01 23:30:00,fall,coffee,fish,The Matrix,"comedy, drama","cooking, movies",😀
-bachelor's (cs),True,less than 1 year,2,macos,False,"english, russian","africa, asia, europe",1997-02-19,1900-01-01 08:00:00,1900-01-01 02:15:00,summer,coffee,none,Spirited Away,drama,"reading, hiking",😀
-mit master's,True,2-4 years,3,macos,True,,"asia, north america",1994-05-12,1900-01-01 11:30:00,1900-01-01 23:00:00,spring,coffee,pet rock,La La Land,"comedy, drama","music, running",😀
-bachelor's (cs),True,1-2 years,1,macos,False,,"asia, north america",2007-08-15,1900-01-01 07:00:00,1900-01-01 22:15:00,fall,coffee,pet rock,Interstellar,sci-fi,gaming,
-master's (ds),False,1-2 years,3,windows,True,english,north america,2000-04-04,1900-01-01 10:00:00,1900-01-01 00:30:00,fall,coffee,fish,,horror,climbing,😀
-mit master's,True,less than 1 year,1,macos,True,english,"europe, north america",2008-11-22,1900-01-01 07:45:00,1900-01-01 02:45:00,summer,coffee,none,Interstellar,comedy,gaming,
-master's (ds),False,2-4 years,2,linux,True,"english, mandarin, portuguese","africa, asia, europe",2005-10-12,1900-01-01 11:30:00,1900-01-01 22:00:00,summer,coffee,dog,Oppenheimer,comedy,"music, running",
-master's (ds),True,1-2 years,2,macos,True,english,north america,1998-03-03,1900-01-01 08:30:00,1900-01-01 22:45:00,fall,tea,dog,The Matrix,drama,"reading, hiking",😴
-bachelor's (am),False,less than 1 year,2,linux,True,"english, spanish, japanese, portuguese","africa, asia, europe",2004-07-27,1900-01-01 06:00:00,1900-01-01 22:15:00,spring,coffee,pet rock,La La Land,"action, sci-fi",gaming,😴
-bachelor's (cs),True,4+ years,3,macos,True,"english, russian, portuguese","asia, north america",2000-06-10,1900-01-01 08:30:00,1900-01-01 01:00:00,winter,tea,fish,Interstellar,sci-fi,"music, running",
-master's (ds),True,less than 1 year,1,macos,False,"english, german","asia, north america",2006-06-21,1900-01-01 07:45:00,1900-01-01 00:45:00,spring,no caffeine for me!,fish,Oppenheimer,"comedy, drama",,😀
-master's (ds),True,less than 1 year,1,macos,True,"english, japanese",north america,2004-08-16,1900-01-01 08:30:00,1900-01-01 01:45:00,spring,coffee,dog,La La Land,horror,"cooking, movies",😀
-master's (ds),True,1-2 years,2,macos,True,"english, spanish","europe, north america",2005-03-19,1900-01-01 11:30:00,1900-01-01 03:00:00,summer,coffee,pet rock,Oppenheimer,drama,"reading, hiking",😀
-master's (ds) [extension school],True,less than 1 year,3,macos,True,"english, hindi","africa, asia, europe",1999-05-11,1900-01-01 08:15:00,1900-01-01 01:00:00,spring,tea,cat,,horror,"cooking, movies",😀
-hks master's,True,less than 1 year,1,macos,False,"english, portuguese, french, russian",north america,1986-09-22,,1900-01-01 00:45:00,winter,coffee,fish,Interstellar,"comedy, drama","cooking, movies",😴
-master's (ds),True,1-2 years,2,wsl,False,"english, cantonese, korean, japanese","asia, north america",2001-04-26,1900-01-01 08:00:00,,summer,tea,fish,,"action, sci-fi","cooking, movies",🤞
-master's (ds),False,4+ years,3,macos,True,"english, hindi","africa, asia, europe",2005-11-02,1900-01-01 11:30:00,1900-01-01 22:00:00,spring,tea,dog,La La Land,"comedy, drama",,
-phd,True,4+ years,3,windows,True,"english, mandarin",north america,2007-01-26,1900-01-01 08:15:00,1900-01-01 23:45:00,fall,coffee,cat,,sci-fi,"cooking, movies",
-,True,less than 1 year,1,macos,True,"english, german",north america,2000-09-22,1900-01-01 08:15:00,1900-01-01 22:45:00,spring,tea,pet rock,La La Land,"comedy, drama","music, running",🤞
-bachelor's (statistics),True,4+ years,5,macos,False,english,"africa, asia, europe",2001-09-04,1900-01-01 07:15:00,1900-01-01 01:15:00,spring,tea,fish,Spirited Away,drama,"cooking, movies",
-master's (ds) [extension school],False,less than 1 year,2,windows,True,"english, korean","europe, north america",2007-09-22,1900-01-01 07:45:00,1900-01-01 01:00:00,spring,tea,dog,,comedy,"cooking, movies",
-master's (ds) [extension school],True,2-4 years,2,macos,True,"english, russian, german","africa, asia, europe",1999-08-03,1900-01-01 08:45:00,1900-01-01 00:15:00,winter,no caffeine for me!,dog,,comedy,,
-hks master's,True,less than 1 year,1,macos,True,"english, japanese, cantonese, spanish","asia, north america",,1900-01-01 09:00:00,1900-01-01 00:00:00,winter,coffee,dog,La La Land,comedy,"cooking, movies",
-bachelor's (cs),True,2-4 years,3,macos,False,,"europe, north america",2007-04-06,1900-01-01 11:30:00,1900-01-01 00:00:00,fall,energy drinks,pet rock,Spirited Away,"action, sci-fi","reading, hiking",😀
-,True,2-4 years,4,windows,True,"english, korean, german","europe, north america",2004-04-25,1900-01-01 07:15:00,1900-01-01 23:00:00,summer,tea,cat,,"comedy, drama",,😴
-bachelor's (cs),False,4+ years,4,i use google colab,False,english,"africa, asia, europe",1994-04-11,1900-01-01 07:15:00,1900-01-01 22:00:00,summer,coffee,fish,,drama,,🤞
-bachelor's (am),False,4+ years,2,macos,False,,"europe, north america",2004-06-02,1900-01-01 07:15:00,1900-01-01 03:30:00,fall,energy drinks,cat,Spirited Away,,climbing,😀
-bachelor's (am),True,less than 1 year,1,macos,False,"english, japanese","europe, north america",1988-05-26,1900-01-01 08:15:00,1900-01-01 22:30:00,winter,tea,cat,La La Land,"comedy, drama",,
-bachelor's (cs),False,1-2 years,2,macos,True,"english, mandarin, korean","africa, asia, europe",1999-10-03,1900-01-01 08:00:00,1900-01-01 22:15:00,winter,coffee,,Parasite,horror,"reading, hiking",😀
-hks master's,True,2-4 years,4,macos,False,english,"africa, asia, europe",2007-03-26,1900-01-01 06:30:00,1900-01-01 00:30:00,fall,no caffeine for me!,cat,La La Land,sci-fi,,😀
-master's (ds),True,less than 1 year,2,macos,False,"english, portuguese, cantonese, french","asia, north america",2005-02-25,1900-01-01 10:30:00,1900-01-01 22:00:00,fall,tea,fish,,"action, sci-fi",,
-bachelor's (statistics),False,2-4 years,3,linux,False,"english, french, german, korean","africa, asia, europe",1998-05-04,1900-01-01 09:45:00,1900-01-01 23:45:00,winter,coffee,pet rock,,drama,gaming,
-master's (ds) [extension school],True,less than 1 year,2,macos,True,english,"europe, north america",2004-03-12,1900-01-01 09:00:00,1900-01-01 01:30:00,summer,tea,pet rock,,sci-fi,climbing,
-bachelor's (cs),True,less than 1 year,3,linux,True,english,north america,2003-12-05,1900-01-01 06:00:00,1900-01-01 23:30:00,fall,tea,fish,,"comedy, drama",gaming,
-bachelor's (statistics),True,1-2 years,2,macos,True,"english, portuguese, cantonese, german",north america,2006-12-26,1900-01-01 09:30:00,1900-01-01 23:30:00,fall,tea,pet rock,Spirited Away,drama,,😴
-master's (ds) [extension school],False,1-2 years,3,windows,True,"english, cantonese","africa, asia, europe",2004-07-06,1900-01-01 09:15:00,1900-01-01 00:45:00,winter,no caffeine for me!,fish,Parasite,,,🤞
-master's (ds),True,1-2 years,2,windows,True,english,"asia, north america",2006-02-13,1900-01-01 08:30:00,1900-01-01 22:00:00,fall,no caffeine for me!,fish,,comedy,gaming,😀
-master's (ds) [extension school],True,1-2 years,2,macos,True,"english, mandarin","europe, north america",2005-10-24,1900-01-01 07:30:00,1900-01-01 23:45:00,spring,coffee,fish,,horror,"cooking, movies",😀
-bachelor's (statistics),True,1-2 years,3,linux,True,english,"asia, north america",1991-09-12,1900-01-01 11:15:00,1900-01-01 02:30:00,fall,tea,pet rock,The Matrix,"action, sci-fi","cooking, movies",😀
-bachelor's (cs),False,4+ years,2,windows,False,english,"africa, asia, europe",2002-08-23,1900-01-01 10:00:00,1900-01-01 23:15:00,fall,coffee,dog,,drama,"reading, hiking",😀
-bachelor's (am),True,less than 1 year,2,windows,True,"english, spanish, cantonese","asia, north america",1989-05-22,1900-01-01 11:15:00,1900-01-01 01:15:00,spring,coffee,pet rock,The Matrix,drama,"cooking, movies",
-master's (ds),True,less than 1 year,2,macos,True,"english, cantonese, german","europe, north america",1999-09-12,1900-01-01 10:00:00,1900-01-01 02:45:00,spring,coffee,fish,Interstellar,drama,"music, running",😀
-phd,True,1-2 years,3,macos,True,"english, german","europe, north america",1999-11-13,1900-01-01 09:15:00,1900-01-01 03:45:00,fall,coffee,fish,Oppenheimer,"action, sci-fi",climbing,🤞
-mit master's,True,2-4 years,2,windows,False,"english, hindi, japanese, french","africa, asia, europe",2002-03-11,1900-01-01 07:15:00,1900-01-01 22:00:00,fall,energy drinks,dog,Oppenheimer,,gaming,
-hks master's,True,2-4 years,3,macos,True,english,"africa, asia, europe",2000-01-05,1900-01-01 09:15:00,1900-01-01 22:45:00,fall,tea,cat,,comedy,gaming,
-bachelor's (statistics),True,less than 1 year,1,linux,True,english,"asia, north america",1999-05-18,,1900-01-01 22:45:00,summer,coffee,dog,,comedy,climbing,😀
-master's (ds) [extension school],True,2-4 years,4,linux,False,english,north america,2007-09-12,1900-01-01 06:15:00,1900-01-01 00:15:00,summer,tea,dog,The Matrix,"comedy, drama","music, running",
-hks master's,True,2-4 years,3,macos,False,english,"asia, north america",1989-06-20,1900-01-01 08:45:00,1900-01-01 00:15:00,spring,tea,fish,Parasite,drama,,
-bachelor's (cs),True,2-4 years,2,windows,True,"english, mandarin, japanese","asia, north america",2002-12-06,1900-01-01 10:30:00,1900-01-01 01:30:00,fall,no caffeine for me!,dog,Spirited Away,sci-fi,"cooking, movies",😀
-bachelor's (cs),True,less than 1 year,2,windows,True,"english, korean, russian, german","africa, asia, europe",2004-05-12,1900-01-01 07:30:00,1900-01-01 22:45:00,summer,coffee,pet rock,,"comedy, drama","cooking, movies",😀
-bachelor's (cs),True,less than 1 year,1,macos,False,"english, spanish",north america,1997-09-25,1900-01-01 10:15:00,1900-01-01 23:15:00,fall,coffee,fish,Interstellar,horror,"cooking, movies",
-master's (ds) [extension school],False,4+ years,3,macos,True,"english, german","asia, north america",2001-09-26,1900-01-01 11:45:00,1900-01-01 01:45:00,fall,coffee,pet rock,Parasite,horror,"music, running",
-master's (ds) [extension school],True,4+ years,4,macos,False,english,north america,2000-05-24,1900-01-01 06:30:00,1900-01-01 00:00:00,fall,coffee,pet rock,La La Land,drama,"reading, hiking",
-bachelor's (cs),True,less than 1 year,2,macos,True,,"asia, north america",2007-09-18,1900-01-01 11:45:00,1900-01-01 23:45:00,fall,coffee,none,Spirited Away,comedy,,🤞
-mit master's,True,1-2 years,1,windows,False,"english, korean","asia, north america",1988-12-04,,1900-01-01 23:30:00,summer,coffee,fish,Spirited Away,horror,"music, running",😀
-bachelor's (cs),True,less than 1 year,1,windows,True,english,"asia, north america",1989-10-14,1900-01-01 08:00:00,1900-01-01 23:15:00,summer,coffee,dog,Oppenheimer,sci-fi,"cooking, movies",
-master's (ds),True,1-2 years,2,macos,True,"english, hindi, japanese, russian","africa, asia, europe",2002-10-10,1900-01-01 06:45:00,1900-01-01 22:30:00,fall,coffee,none,Oppenheimer,"comedy, drama","cooking, movies",😀
-bachelor's (cs),True,less than 1 year,2,i use google colab,True,"english, german",north america,,1900-01-01 10:00:00,,winter,coffee,fish,,drama,"cooking, movies",
-master's (ds),True,less than 1 year,3,macos,False,english,"africa, asia, europe",2007-09-22,1900-01-01 08:45:00,1900-01-01 01:00:00,winter,tea,pet rock,The Matrix,,"reading, hiking",
-bachelor's (cs),True,less than 1 year,3,macos,False,english,"africa, asia, europe",2002-09-15,1900-01-01 08:45:00,1900-01-01 22:00:00,spring,tea,none,Oppenheimer,drama,"cooking, movies",😴
-master's (ds),False,4+ years,4,macos,True,"english, german, french, portuguese",north america,2008-04-01,1900-01-01 09:30:00,1900-01-01 01:45:00,fall,coffee,fish,Interstellar,comedy,"reading, hiking",😴
-bachelor's (statistics),False,1-2 years,2,macos,True,english,"europe, north america",2004-11-02,1900-01-01 09:15:00,1900-01-01 22:30:00,fall,coffee,fish,Spirited Away,"action, sci-fi",,😀
-master's (ds),False,less than 1 year,1,i use google colab,False,"english, portuguese, german, french","europe, north america",2008-10-01,1900-01-01 06:15:00,1900-01-01 22:45:00,summer,tea,none,Spirited Away,,climbing,😀
-phd,True,1-2 years,2,windows,False,"english, german, korean","africa, asia, europe",2007-06-17,1900-01-01 06:30:00,1900-01-01 22:45:00,fall,energy drinks,pet rock,Interstellar,comedy,gaming,😀
-bachelor's (statistics),False,1-2 years,3,macos,False,"english, korean, spanish, japanese",north america,2025-11-23,1900-01-01 11:30:00,1900-01-01 23:15:00,fall,coffee,pet rock,,comedy,"cooking, movies",
-mit master's,False,1-2 years,3,linux,True,"english, portuguese",north america,1987-07-09,1900-01-01 09:00:00,1900-01-01 00:00:00,fall,tea,none,The Matrix,comedy,climbing,😀
-bachelor's (am),False,1-2 years,1,i use google colab,False,"english, mandarin, korean","europe, north america",,1900-01-01 06:45:00,1900-01-01 23:15:00,fall,no caffeine for me!,fish,Oppenheimer,"comedy, drama","music, running",🤞
-bachelor's (statistics),True,1-2 years,3,windows,False,"english, cantonese, french, japanese",north america,2004-04-06,1900-01-01 06:45:00,1900-01-01 01:00:00,summer,tea,cat,La La Land,"comedy, drama","music, running",😴
-bachelor's (cs),True,less than 1 year,2,windows,False,"english, french","asia, north america",1995-05-13,1900-01-01 06:15:00,1900-01-01 00:00:00,winter,energy drinks,pet rock,The Matrix,sci-fi,gaming,
-bachelor's (cs),False,1-2 years,3,wsl,True,"english, japanese",north america,1991-11-09,1900-01-01 07:45:00,1900-01-01 23:45:00,fall,no caffeine for me!,cat,Spirited Away,drama,climbing,😴
-bachelor's (cs),False,4+ years,5,macos,True,"english, cantonese, spanish, french","africa, asia, europe",1994-12-05,1900-01-01 10:30:00,1900-01-01 23:45:00,spring,coffee,pet rock,La La Land,horror,"music, running",
-phd,True,1-2 years,3,windows,True,"english, japanese, russian","asia, north america",2002-05-21,1900-01-01 06:00:00,1900-01-01 23:15:00,spring,no caffeine for me!,fish,Parasite,horror,,
-bachelor's (cs),True,4+ years,4,windows,False,"english, japanese","europe, north america",1990-01-06,1900-01-01 09:00:00,1900-01-01 00:00:00,summer,coffee,cat,Interstellar,drama,,🤞
-master's (ds),True,less than 1 year,2,windows,True,"english, hindi, mandarin, russian",north america,,1900-01-01 10:15:00,1900-01-01 00:45:00,summer,tea,dog,,sci-fi,"reading, hiking",
-master's (ds),True,less than 1 year,1,macos,True,english,"europe, north america",1996-04-04,1900-01-01 11:15:00,1900-01-01 00:45:00,fall,coffee,pet rock,Oppenheimer,,"music, running",😀
-master's (ds),True,4+ years,3,macos,True,"english, spanish, portuguese, cantonese","asia, north america",1988-08-18,1900-01-01 10:45:00,1900-01-01 22:45:00,spring,coffee,fish,La La Land,"comedy, drama","music, running",😀
-bachelor's (am),True,1-2 years,3,linux,True,"english, german, korean, portuguese","europe, north america",1993-12-16,1900-01-01 11:15:00,1900-01-01 01:15:00,fall,coffee,none,Interstellar,comedy,"reading, hiking",
-bachelor's (cs),False,1-2 years,3,linux,False,"english, korean","africa, asia, europe",1991-02-22,1900-01-01 07:30:00,1900-01-01 01:15:00,fall,no caffeine for me!,dog,Spirited Away,horror,"cooking, movies",🤞
-bachelor's (cs),True,1-2 years,2,macos,False,english,"africa, asia, europe",2007-08-06,1900-01-01 11:15:00,1900-01-01 00:00:00,summer,coffee,dog,Parasite,drama,climbing,🤞
-master's (ds),False,less than 1 year,2,windows,False,"english, cantonese","europe, north america",2004-07-19,1900-01-01 08:45:00,1900-01-01 22:00:00,winter,coffee,none,La La Land,horror,"music, running",😀
-phd,True,2-4 years,3,windows,False,english,"europe, north america",,1900-01-01 09:00:00,1900-01-01 23:45:00,spring,tea,fish,The Matrix,horror,"cooking, movies",🤞
-bachelor's (am),False,1-2 years,4,macos,True,"english, german",north america,2008-11-22,1900-01-01 08:15:00,1900-01-01 23:15:00,summer,energy drinks,dog,,sci-fi,"music, running",
-bachelor's (statistics),True,1-2 years,3,macos,False,"english, mandarin, spanish","europe, north america",2003-07-27,1900-01-01 09:00:00,1900-01-01 23:45:00,winter,coffee,none,The Matrix,drama,,
-master's (ds) [extension school],True,2-4 years,4,macos,True,"english, french","asia, north america",2008-03-27,1900-01-01 09:45:00,1900-01-01 22:00:00,winter,tea,pet rock,Interstellar,,climbing,
-bachelor's (cs),True,4+ years,4,windows,True,"english, japanese","asia, north america",2004-12-17,1900-01-01 06:00:00,1900-01-01 23:15:00,summer,tea,none,Spirited Away,comedy,"music, running",😀
-master's (ds),True,4+ years,3,macos,True,english,"asia, north america",,1900-01-01 06:00:00,1900-01-01 23:15:00,fall,no caffeine for me!,dog,Spirited Away,sci-fi,climbing,
-hks master's,True,1-2 years,2,windows,True,"english, hindi","europe, north america",2005-12-07,1900-01-01 08:00:00,1900-01-01 01:00:00,fall,coffee,fish,Spirited Away,drama,"cooking, movies",
-bachelor's (am),False,less than 1 year,3,windows,True,"english, spanish, russian, japanese",north america,2001-02-01,1900-01-01 11:00:00,1900-01-01 01:15:00,spring,tea,none,The Matrix,sci-fi,gaming,😀
-bachelor's (statistics),True,less than 1 year,2,wsl,False,"english, german, french, japanese",north america,1997-04-05,1900-01-01 07:00:00,1900-01-01 00:30:00,fall,coffee,none,Interstellar,"comedy, drama",,
-bachelor's (statistics),True,1-2 years,4,windows,True,"english, portuguese","asia, north america",1989-06-23,1900-01-01 06:30:00,1900-01-01 22:30:00,fall,no caffeine for me!,fish,The Matrix,"action, sci-fi",gaming,🤞
-master's (ds),True,less than 1 year,2,macos,False,english,"africa, asia, europe",2008-03-08,1900-01-01 06:45:00,1900-01-01 23:30:00,summer,tea,cat,,,gaming,😀
-phd,False,less than 1 year,1,macos,True,"english, french","europe, north america",2000-04-01,1900-01-01 11:30:00,1900-01-01 02:30:00,summer,coffee,pet rock,Oppenheimer,"action, sci-fi",climbing,😀
-master's (ds),True,less than 1 year,2,windows,False,english,north america,2006-04-13,1900-01-01 09:00:00,1900-01-01 23:45:00,winter,no caffeine for me!,dog,Oppenheimer,"comedy, drama","reading, hiking",😴
-bachelor's (statistics),False,4+ years,3,macos,False,english,"africa, asia, europe",2001-02-01,1900-01-01 10:00:00,1900-01-01 22:45:00,fall,no caffeine for me!,cat,Spirited Away,"comedy, drama",,😴
-bachelor's (statistics),True,less than 1 year,2,macos,True,english,north america,1990-03-06,1900-01-01 06:15:00,1900-01-01 23:30:00,summer,coffee,fish,The Matrix,sci-fi,climbing,
-master's (ds),False,less than 1 year,1,macos,True,"english, russian","africa, asia, europe",2003-02-07,1900-01-01 08:15:00,1900-01-01 23:00:00,summer,coffee,pet rock,Spirited Away,horror,"reading, hiking",🤞
-master's (ds),True,4+ years,4,macos,True,english,"asia, north america",1991-03-01,1900-01-01 09:45:00,1900-01-01 02:15:00,summer,coffee,none,Parasite,sci-fi,gaming,🤞
-bachelor's (cs),True,1-2 years,2,macos,True,"english, russian, spanish","europe, north america",2005-04-02,1900-01-01 11:15:00,1900-01-01 03:15:00,summer,coffee,pet rock,Interstellar,"action, sci-fi","reading, hiking",
-master's (ds),True,2-4 years,3,macos,False,"english, russian, mandarin, hindi","asia, north america",2001-04-22,1900-01-01 11:15:00,1900-01-01 22:15:00,spring,coffee,dog,,"comedy, drama","cooking, movies",😴
-master's (ds),True,1-2 years,2,macos,True,english,"africa, asia, europe",2006-12-17,1900-01-01 11:30:00,1900-01-01 00:15:00,winter,energy drinks,pet rock,Oppenheimer,horror,"reading, hiking",😴
-bachelor's (cs),True,4+ years,3,i use google colab,True,english,"africa, asia, europe",2025-04-08,1900-01-01 08:45:00,1900-01-01 23:15:00,summer,coffee,cat,Spirited Away,drama,"reading, hiking",😀
-master's (ds) [extension school],True,4+ years,3,macos,False,"english, german",north america,1987-09-19,1900-01-01 08:00:00,1900-01-01 00:30:00,,tea,none,,comedy,gaming,
-bachelor's (cs),True,1-2 years,3,i use google colab,True,english,"europe, north america",1994-07-20,1900-01-01 09:15:00,1900-01-01 01:00:00,fall,tea,fish,Parasite,sci-fi,climbing,
-bachelor's (cs),False,4+ years,5,macos,False,english,"africa, asia, europe",,1900-01-01 11:45:00,1900-01-01 01:30:00,fall,no caffeine for me!,pet rock,Parasite,sci-fi,,😴
-master's (ds),True,1-2 years,3,windows,False,"english, portuguese, russian, german","asia, north america",1999-03-11,1900-01-01 06:45:00,1900-01-01 23:15:00,spring,energy drinks,pet rock,,comedy,"cooking, movies",🤞
-master's (ds) [extension school],False,1-2 years,3,windows,True,"english, mandarin",north america,2003-09-25,1900-01-01 08:15:00,1900-01-01 22:30:00,fall,tea,cat,Oppenheimer,"comedy, drama",gaming,😴
-master's (ds),True,2-4 years,4,windows,False,english,"africa, asia, europe",2001-11-07,1900-01-01 08:15:00,1900-01-01 02:30:00,summer,coffee,fish,Oppenheimer,sci-fi,,
-master's (ds),True,1-2 years,1,linux,True,english,north america,,1900-01-01 11:15:00,1900-01-01 02:45:00,spring,coffee,cat,Interstellar,horror,,
-bachelor's (cs),False,less than 1 year,1,macos,False,english,"africa, asia, europe",1996-06-17,1900-01-01 06:30:00,1900-01-01 00:45:00,,tea,fish,Interstellar,"comedy, drama","music, running",
-master's (ds),True,1-2 years,2,windows,False,english,north america,2003-12-17,1900-01-01 07:45:00,1900-01-01 01:45:00,summer,coffee,fish,Interstellar,"comedy, drama",gaming,🤞
-bachelor's (am),False,less than 1 year,1,macos,True,"english, french, japanese, mandarin","europe, north america",2002-02-12,1900-01-01 07:15:00,1900-01-01 23:45:00,summer,coffee,none,La La Land,"comedy, drama","music, running",
-bachelor's (cs),False,4+ years,3,windows,True,english,north america,2008-08-14,1900-01-01 06:00:00,1900-01-01 23:15:00,fall,coffee,fish,Interstellar,sci-fi,"music, running",😴
-master's (ds) [extension school],True,1-2 years,1,windows,True,"english, japanese, french","asia, north america",2006-08-08,1900-01-01 06:00:00,1900-01-01 02:00:00,fall,tea,cat,Oppenheimer,comedy,"reading, hiking",
-bachelor's (cs),True,less than 1 year,1,macos,True,"english, japanese",north america,2006-06-22,1900-01-01 08:15:00,1900-01-01 23:00:00,spring,coffee,pet rock,Spirited Away,horror,"music, running",🤞
-bachelor's (am),False,4+ years,3,macos,True,"english, cantonese, korean","asia, north america",1990-01-23,1900-01-01 08:00:00,1900-01-01 23:45:00,summer,tea,cat,,horror,gaming,😴
-bachelor's (am),True,4+ years,4,macos,True,"english, french",north america,2001-02-16,1900-01-01 06:45:00,1900-01-01 23:45:00,summer,coffee,none,,comedy,"cooking, movies",🤞
-master's (ds),True,2-4 years,3,windows,True,"english, hindi","africa, asia, europe",1985-01-27,1900-01-01 10:00:00,1900-01-01 23:00:00,fall,coffee,cat,,"comedy, drama","music, running",😴
-phd,True,1-2 years,1,macos,False,"english, japanese","africa, asia, europe",,1900-01-01 07:45:00,1900-01-01 23:00:00,fall,tea,cat,La La Land,horror,gaming,😀
-master's (ds) [extension school],True,1-2 years,2,windows,False,english,"europe, north america",1999-10-22,1900-01-01 10:30:00,1900-01-01 01:45:00,fall,tea,fish,Oppenheimer,,"cooking, movies",
-,True,less than 1 year,4,windows,True,english,"africa, asia, europe",2001-08-12,1900-01-01 11:45:00,1900-01-01 00:45:00,summer,no caffeine for me!,dog,Oppenheimer,"action, sci-fi",,🤞
-bachelor's (cs),True,less than 1 year,2,macos,False,english,"asia, north america",1999-04-25,1900-01-01 11:30:00,1900-01-01 22:15:00,fall,tea,none,Interstellar,"comedy, drama",climbing,
-bachelor's (am),True,less than 1 year,1,wsl,True,"english, spanish, russian, french","africa, asia, europe",1991-08-27,1900-01-01 10:15:00,1900-01-01 23:00:00,spring,energy drinks,fish,La La Land,,climbing,
-bachelor's (statistics),True,1-2 years,2,windows,True,english,"asia, north america",,1900-01-01 11:30:00,1900-01-01 01:15:00,fall,tea,fish,Interstellar,drama,"cooking, movies",
-master's (ds),True,2-4 years,5,windows,True,"english, korean",north america,2003-07-25,,1900-01-01 01:15:00,summer,coffee,pet rock,La La Land,horror,climbing,
-master's (ds),True,less than 1 year,2,macos,False,"english, russian, french, hindi","europe, north america",2001-06-07,1900-01-01 10:15:00,,fall,tea,fish,Parasite,horror,gaming,
-bachelor's (am),True,less than 1 year,3,macos,True,"english, hindi","asia, north america",2006-09-11,1900-01-01 10:45:00,1900-01-01 01:30:00,fall,tea,cat,Spirited Away,"action, sci-fi","cooking, movies",
-master's (ds),True,2-4 years,4,macos,True,"english, cantonese, hindi, russian","asia, north america",2002-12-23,1900-01-01 10:00:00,1900-01-01 00:30:00,winter,tea,none,Oppenheimer,,climbing,😴
-bachelor's (statistics),True,4+ years,5,windows,False,"english, french",north america,2007-04-18,1900-01-01 09:00:00,1900-01-01 23:15:00,fall,coffee,cat,The Matrix,,,😀
-phd,True,4+ years,4,macos,False,"english, japanese, mandarin, hindi","europe, north america",2006-02-20,1900-01-01 09:30:00,1900-01-01 00:45:00,winter,tea,dog,Oppenheimer,sci-fi,climbing,🤞
-master's (ds),True,2-4 years,3,macos,True,"english, japanese, russian, hindi",north america,1986-11-20,1900-01-01 10:00:00,1900-01-01 22:45:00,fall,no caffeine for me!,none,La La Land,comedy,"reading, hiking",🤞
-master's (ds) [extension school],True,4+ years,3,windows,False,"english, cantonese","africa, asia, europe",2002-12-04,1900-01-01 06:00:00,1900-01-01 22:45:00,spring,coffee,pet rock,,comedy,climbing,
-hks master's,True,1-2 years,2,macos,False,"english, french",north america,1987-11-07,1900-01-01 11:00:00,1900-01-01 23:15:00,winter,tea,pet rock,Oppenheimer,"action, sci-fi",gaming,🤞
-master's (ds),True,2-4 years,3,macos,True,english,north america,2001-09-27,1900-01-01 10:45:00,1900-01-01 00:15:00,summer,coffee,pet rock,Parasite,comedy,,
-master's (ds),True,1-2 years,3,macos,False,english,"europe, north america",2000-07-15,1900-01-01 11:45:00,1900-01-01 01:15:00,summer,coffee,dog,,sci-fi,,😀
-master's (ds) [extension school],False,1-2 years,1,macos,True,,"europe, north america",2006-12-26,1900-01-01 09:45:00,1900-01-01 02:00:00,summer,energy drinks,cat,,horror,gaming,
-master's (ds),False,4+ years,3,macos,False,"english, hindi","europe, north america",1998-07-01,1900-01-01 09:45:00,1900-01-01 01:45:00,fall,coffee,dog,,comedy,"music, running",
-mit master's,True,1-2 years,2,macos,True,"english, spanish","africa, asia, europe",2003-03-11,1900-01-01 11:30:00,1900-01-01 22:30:00,spring,coffee,none,,"action, sci-fi",climbing,😴
-bachelor's (statistics),True,2-4 years,3,wsl,True,english,north america,2002-06-18,1900-01-01 08:00:00,1900-01-01 01:15:00,spring,coffee,,Spirited Away,"action, sci-fi","reading, hiking",
-bachelor's (statistics),True,1-2 years,2,windows,True,"english, hindi, russian, portuguese","europe, north america",,1900-01-01 07:00:00,1900-01-01 22:30:00,winter,,none,,"action, sci-fi",climbing,🤞
-bachelor's (cs),True,less than 1 year,2,macos,True,english,"asia, north america",2006-02-23,1900-01-01 08:15:00,1900-01-01 22:00:00,spring,tea,fish,,"comedy, drama",climbing,😀
-mit master's,True,less than 1 year,2,windows,True,"english, japanese","asia, north america",1990-02-12,1900-01-01 11:15:00,1900-01-01 23:45:00,fall,tea,dog,Interstellar,sci-fi,"music, running",
-bachelor's (cs),True,1-2 years,2,macos,True,english,north america,2006-02-21,1900-01-01 07:15:00,1900-01-01 23:45:00,fall,coffee,none,Interstellar,horror,climbing,😀
-mit master's,False,2-4 years,2,windows,False,"english, mandarin, spanish, cantonese","asia, north america",1995-12-14,1900-01-01 06:00:00,,fall,coffee,cat,Parasite,comedy,"reading, hiking",😴
+program,jupyter,python_exp,pandas_skill,os,dark_mode,languages,continents,dob,wake_time,sleep_time,fav_season,caffeine,pet,fav_movie,fav_genres,hobbies,hw0_time,hw0
+master's (ds),False,less than 1 year,3,macos,True,english,"asia, north america",2000-09,1900-01-01 07:30:00,1900-01-01 03:00:00,summer,tea,pet rock,The Matrix,,"reading, hiking",2.5,
+master's (ds),False,1-2 years,3,wsl,True,"hindi, cantonese, portuguese, english","asia, north america",2004-08,1900-01-01 10:00:00,1900-01-01 23:15:00,spring,coffee,dog,,drama,climbing,120,🧐
+mit master's,True,1-2 years,3,macos,False,"portuguese, french, english",north america,2008-01,1900-01-01 06:30:00,1900-01-01 00:00:00,spring,tea,none,,"action, sci-fi",climbing,,
+bachelor's (cs),False,1-2 years,2,macos,True,"mandarin, hindi, english, cantonese","asia, north america",2008-01,1900-01-01 08:30:00,1900-01-01 22:15:00,summer,tea,pet rock,Parasite,comedy,climbing,45,
+master's (ds) [extension school],True,1-2 years,3,windows,False,"mandarin, english, hindi","africa, asia, europe",2003-08,1900-01-01 08:15:00,1900-01-01 23:30:00,summer,tea,fish,,sci-fi,"reading, hiking",~90,
+master's (ds),True,2-4 years,3,macos,,"english, spanish","europe, north america",1990-01,1900-01-01 07:15:00,1900-01-01 22:30:00,spring,tea,none,La La Land,horror,climbing,120,
+phd,True,4+ years,4,macos,True,"english, portuguese","africa, asia, europe",1989-12,1900-01-01 10:00:00,1900-01-01 00:45:00,fall,energy drinks,none,Interstellar,"comedy, drama","cooking, movies",120,😅
+master's (ds),True,less than 1 year,1,macos,True,english,"europe, north america",1999-12,1900-01-01 06:30:00,1900-01-01 03:45:00,summer,no caffeine for me!,dog,The Matrix,"comedy, drama","cooking, movies",,😱
+bachelor's (am),True,2-4 years,3,macos,False,"german, korean, english, portuguese","europe, north america",1992-04,1900-01-01 06:00:00,1900-01-01 23:30:00,winter,coffee,none,Spirited Away,horror,gaming,120,
+master's (ds) [extension school],True,less than 1 year,1,linux,True,english,"africa, asia, europe",1999-11,1900-01-01 06:15:00,1900-01-01 00:15:00,fall,no caffeine for me!,fish,Oppenheimer,horror,,3h,
+bachelor's (statistics),True,4+ years,4,windows,True,"english, japanese","africa, asia, europe",2007-03,,1900-01-01 22:15:00,spring,no caffeine for me!,fish,The Matrix,horror,"cooking, movies",~90,
+bachelor's (cs),False,4+ years,4,windows,,english,north america,1999-06,1900-01-01 11:00:00,1900-01-01 23:45:00,summer,coffee,fish,Oppenheimer,"comedy, drama","music, running",2.5,🧐
+master's (ds),False,1-2 years,3,macos,True,"hindi, english",north america,2000-02,1900-01-01 07:00:00,1900-01-01 22:30:00,fall,coffee,pet rock,Spirited Away,sci-fi,climbing,way too long,🧐
+master's (ds) [extension school],True,2-4 years,5,macos,False,"portuguese, spanish, english","africa, asia, europe",2006-03,1900-01-01 07:45:00,1900-01-01 22:30:00,fall,coffee,none,Interstellar,comedy,"reading, hiking",90,
+master's (ds) [extension school],True,1-2 years,3,i use google colab,True,"spanish, english","europe, north america",2005-09,1900-01-01 10:15:00,1900-01-01 22:45:00,spring,coffee,pet rock,,,"reading, hiking",45,
+bachelor's (am),True,2-4 years,3,i use google colab,True,english,north america,2000-03,1900-01-01 06:45:00,1900-01-01 00:15:00,summer,tea,pet rock,Oppenheimer,drama,"music, running",120,
+master's (ds),True,1-2 years,2,windows,False,english,"africa, asia, europe",2002-03,1900-01-01 07:45:00,1900-01-01 23:30:00,spring,tea,fish,The Matrix,horror,climbing,60 min,😎
+master's (ds),True,less than 1 year,1,windows,False,english,north america,2003-04,1900-01-01 11:15:00,1900-01-01 00:30:00,fall,coffee,dog,Oppenheimer,comedy,gaming,120,
+bachelor's (statistics),True,less than 1 year,2,macos,True,"english, korean","europe, north america",2005-03,1900-01-01 11:00:00,1900-01-01 00:45:00,fall,coffee,pet rock,Parasite,"action, sci-fi",gaming,120,😅
+master's (ds) [extension school],True,less than 1 year,3,macos,False,"russian, english","europe, north america",1995-05,1900-01-01 11:15:00,1900-01-01 23:15:00,fall,coffee,pet rock,Interstellar,drama,,about 2 hours,🧐
+hks master's,True,1-2 years,2,windows,True,"spanish, english",north america,2005-06,1900-01-01 07:30:00,1900-01-01 01:30:00,winter,tea,cat,Oppenheimer,"comedy, drama",climbing,60 min,
+bachelor's (statistics),False,1-2 years,4,macos,False,"english, cantonese",north america,1992-01,1900-01-01 08:45:00,1900-01-01 00:30:00,fall,tea,dog,,sci-fi,"music, running",90,😅
+bachelor's (cs),True,2-4 years,3,macos,True,"mandarin, english","europe, north america",2003-11,1900-01-01 09:45:00,1900-01-01 01:15:00,spring,coffee,none,,drama,,45,
+master's (ds),True,less than 1 year,1,windows,True,"portuguese, english","europe, north america",2008-04,1900-01-01 07:15:00,1900-01-01 01:15:00,fall,tea,none,,comedy,"music, running",45,
+phd,True,1-2 years,2,macos,True,english,north america,1996-06,1900-01-01 06:15:00,1900-01-01 00:00:00,summer,coffee,pet rock,Spirited Away,horror,"cooking, movies",90,
+master's (ds),True,1-2 years,2,i use google colab,False,"portuguese, english","asia, north america",2006-01,1900-01-01 07:30:00,1900-01-01 00:15:00,winter,tea,fish,,"action, sci-fi","reading, hiking",120,
+hks master's,False,less than 1 year,1,macos,False,english,"asia, north america",2001-06,1900-01-01 06:30:00,,fall,coffee,dog,La La Land,horror,"cooking, movies",45,
+mit master's,True,1-2 years,3,windows,True,english,"africa, asia, europe",1999-01,1900-01-01 09:45:00,1900-01-01 00:00:00,summer,tea,none,,drama,"music, running",~90,🧐
+master's (ds),False,1-2 years,2,macos,True,"english, hindi, portuguese","europe, north america",2002-04,1900-01-01 11:30:00,1900-01-01 00:15:00,fall,coffee,fish,Oppenheimer,"action, sci-fi","cooking, movies",60 min,
+master's (ds),True,less than 1 year,2,windows,False,,"africa, asia, europe",,1900-01-01 07:45:00,1900-01-01 22:15:00,winter,tea,none,,drama,"cooking, movies",3h,😅
+bachelor's (cs),False,less than 1 year,2,macos,False,english,north america,2001-02,1900-01-01 06:15:00,1900-01-01 23:30:00,winter,no caffeine for me!,cat,The Matrix,"action, sci-fi","cooking, movies",~90,
+bachelor's (statistics),True,4+ years,3,macos,True,"english, portuguese, german","asia, north america",2003-09,1900-01-01 07:30:00,1900-01-01 00:45:00,summer,coffee,pet rock,Interstellar,"action, sci-fi","reading, hiking",,
+master's (ds) [extension school],False,2-4 years,2,windows,True,"spanish, mandarin, english","europe, north america",2006-10,1900-01-01 09:00:00,1900-01-01 22:00:00,fall,tea,none,The Matrix,,climbing,about 2 hours,☠️
+bachelor's (statistics),True,1-2 years,2,wsl,True,"english, portuguese","europe, north america",2006-10,1900-01-01 11:45:00,1900-01-01 00:30:00,summer,coffee,dog,Parasite,comedy,"reading, hiking",way too long,
+bachelor's (cs),True,less than 1 year,2,windows,True,"spanish, english",north america,2007-02,1900-01-01 11:30:00,1900-01-01 00:00:00,winter,coffee,cat,,"action, sci-fi",,~90,😱
+bachelor's (cs),True,4+ years,3,macos,True,english,north america,2002-09,1900-01-01 06:00:00,1900-01-01 23:30:00,summer,coffee,,Parasite,drama,"cooking, movies",about 2 hours,
+bachelor's (cs),True,1-2 years,2,macos,True,"german, french, english, cantonese",north america,2007-12,1900-01-01 06:15:00,1900-01-01 23:00:00,spring,tea,fish,,"comedy, drama",gaming,120,😱
+master's (ds),True,1-2 years,2,macos,True,"hindi, english","europe, north america",2007-04,1900-01-01 07:45:00,1900-01-01 00:15:00,spring,no caffeine for me!,dog,,drama,"reading, hiking",3h,🧐
+mit master's,True,4+ years,4,macos,True,english,north america,2002-10,1900-01-01 07:30:00,1900-01-01 22:45:00,fall,coffee,pet rock,Spirited Away,"comedy, drama","reading, hiking",90,☠️
+bachelor's (statistics),False,less than 1 year,1,macos,True,"french, english","africa, asia, europe",1993-08,1900-01-01 06:00:00,1900-01-01 22:30:00,summer,coffee,dog,The Matrix,"comedy, drama","reading, hiking",one evening,😅
+master's (ds) [extension school],True,2-4 years,3,i use google colab,True,,"asia, north america",2000-11,1900-01-01 08:45:00,1900-01-01 02:15:00,fall,coffee,pet rock,Spirited Away,"action, sci-fi",gaming,45,☠️
+bachelor's (cs),True,less than 1 year,1,macos,True,,"europe, north america",2005-11,1900-01-01 06:15:00,1900-01-01 00:15:00,fall,coffee,dog,Spirited Away,comedy,,3h,
+master's (ds) [extension school],True,less than 1 year,1,macos,False,"korean, english","asia, north america",2003-03,1900-01-01 11:30:00,1900-01-01 00:15:00,fall,no caffeine for me!,cat,Oppenheimer,horror,"reading, hiking",,😅
+mit master's,True,2-4 years,3,macos,True,english,"asia, north america",1997-12,1900-01-01 06:30:00,1900-01-01 01:15:00,winter,tea,fish,Interstellar,drama,"reading, hiking",about 2 hours,
+bachelor's (am),True,less than 1 year,1,macos,True,english,"asia, north america",2007-06,1900-01-01 09:00:00,1900-01-01 23:45:00,spring,tea,none,Oppenheimer,drama,gaming,~90,🍰
+bachelor's (am),True,1-2 years,4,windows,,"cantonese, english","asia, north america",2004-05,1900-01-01 11:15:00,1900-01-01 00:45:00,winter,tea,dog,Interstellar,"comedy, drama","music, running",way too long,
+mit master's,True,1-2 years,2,macos,True,"english, russian, portuguese, cantonese","africa, asia, europe",1995-01,1900-01-01 09:45:00,1900-01-01 00:00:00,fall,tea,none,La La Land,"action, sci-fi",,3h,
+bachelor's (cs),True,less than 1 year,2,macos,True,english,"asia, north america",2006-11,1900-01-01 11:45:00,1900-01-01 23:45:00,fall,tea,none,La La Land,horror,"cooking, movies",one evening,
+mit master's,True,2-4 years,3,windows,False,"english, french","europe, north america",2002-01,1900-01-01 08:00:00,1900-01-01 23:45:00,fall,no caffeine for me!,fish,The Matrix,drama,"cooking, movies",about 2 hours,
+mit master's,True,1-2 years,2,wsl,False,"cantonese, english, korean","africa, asia, europe",2000-09,1900-01-01 11:30:00,1900-01-01 23:15:00,summer,energy drinks,fish,La La Land,sci-fi,"reading, hiking",,🧐
+mit master's,True,1-2 years,1,macos,True,"english, mandarin, spanish","europe, north america",2002-12,1900-01-01 06:45:00,1900-01-01 22:15:00,spring,tea,pet rock,Parasite,drama,"cooking, movies",about 2 hours,
+phd,False,1-2 years,2,macos,False,"english, korean, japanese","europe, north america",2003-03,1900-01-01 08:45:00,1900-01-01 00:30:00,summer,tea,none,Parasite,drama,,about 2 hours,😎
+bachelor's (am),True,1-2 years,3,windows,True,english,"asia, north america",,1900-01-01 09:30:00,1900-01-01 02:00:00,summer,coffee,fish,La La Land,"comedy, drama","music, running",120,
+master's (ds),True,1-2 years,2,macos,False,english,north america,,1900-01-01 11:15:00,1900-01-01 02:15:00,winter,no caffeine for me!,cat,Interstellar,comedy,"reading, hiking",,
+bachelor's (am),True,1-2 years,2,macos,False,english,north america,1999-11,1900-01-01 11:45:00,1900-01-01 00:30:00,fall,coffee,none,The Matrix,"action, sci-fi","cooking, movies",120,
+bachelor's (statistics),True,2-4 years,1,macos,True,"korean, japanese, english, russian","asia, north america",2001-04,1900-01-01 11:30:00,1900-01-01 23:30:00,winter,tea,dog,,,"reading, hiking",45,😅
+hks master's,False,1-2 years,2,wsl,True,"korean, english","asia, north america",1993-09,1900-01-01 08:45:00,1900-01-01 22:00:00,winter,no caffeine for me!,dog,The Matrix,"action, sci-fi",gaming,90,🍰
+bachelor's (cs),True,1-2 years,3,windows,True,"english, mandarin","asia, north america",2000-03,1900-01-01 07:00:00,1900-01-01 00:15:00,summer,coffee,cat,The Matrix,"comedy, drama","music, running",60 min,
+bachelor's (cs),False,less than 1 year,2,macos,True,english,"africa, asia, europe",2006-05,,1900-01-01 23:00:00,spring,coffee,dog,Oppenheimer,comedy,"reading, hiking",way too long,😎
+mit master's,True,2-4 years,3,macos,True,"english, spanish","asia, north america",2001-06,1900-01-01 09:00:00,1900-01-01 23:45:00,spring,coffee,pet rock,,horror,,45,
+mit master's,False,1-2 years,2,i use google colab,True,english,"europe, north america",2006-06,1900-01-01 06:00:00,1900-01-01 00:15:00,fall,no caffeine for me!,pet rock,Oppenheimer,drama,gaming,60 min,😅
+bachelor's (cs),False,less than 1 year,1,macos,True,"portuguese, spanish, english","africa, asia, europe",2000-08,1900-01-01 09:30:00,1900-01-01 22:45:00,fall,coffee,cat,Oppenheimer,comedy,climbing,60 min,😎
+hks master's,True,1-2 years,3,macos,True,"russian, english, german","europe, north america",2004-02,1900-01-01 09:30:00,1900-01-01 00:15:00,fall,coffee,dog,Oppenheimer,"comedy, drama",climbing,about 2 hours,🧐
+master's (ds) [extension school],False,less than 1 year,1,windows,False,"english, mandarin","africa, asia, europe",1990-01,1900-01-01 07:45:00,1900-01-01 00:30:00,winter,coffee,fish,Interstellar,sci-fi,climbing,~90,😎
+master's (ds) [extension school],False,4+ years,2,linux,True,"english, russian","africa, asia, europe",,1900-01-01 09:15:00,1900-01-01 22:15:00,summer,no caffeine for me!,fish,Parasite,drama,gaming,way too long,
+master's (ds),True,4+ years,4,macos,True,"english, german, russian, spanish","asia, north america",2001-04,1900-01-01 10:15:00,1900-01-01 00:00:00,summer,,dog,Spirited Away,"comedy, drama",climbing,90,🧐
+bachelor's (statistics),True,less than 1 year,1,windows,True,"korean, hindi, english","asia, north america",2007-09,1900-01-01 09:30:00,1900-01-01 00:45:00,fall,tea,pet rock,Parasite,drama,"cooking, movies",3h,🧐
+bachelor's (cs),False,1-2 years,4,macos,True,"japanese, english, mandarin","europe, north america",2005-05,1900-01-01 09:30:00,1900-01-01 23:15:00,winter,tea,dog,Oppenheimer,"comedy, drama",gaming,~90,🍰
+bachelor's (statistics),False,2-4 years,4,wsl,False,"korean, english",north america,1998-10,1900-01-01 06:15:00,1900-01-01 23:00:00,fall,tea,pet rock,,horror,"music, running",,
+bachelor's (statistics),False,less than 1 year,2,macos,True,english,north america,1999-03,1900-01-01 07:45:00,,fall,energy drinks,none,Parasite,,gaming,120,
+bachelor's (cs),True,1-2 years,3,macos,True,"cantonese, english, korean",north america,1988-01,1900-01-01 09:45:00,1900-01-01 02:00:00,summer,coffee,cat,Spirited Away,,"cooking, movies",3h,
+bachelor's (cs),False,1-2 years,4,windows,True,"english, russian","asia, north america",2004-09,1900-01-01 10:00:00,1900-01-01 23:15:00,summer,no caffeine for me!,fish,The Matrix,sci-fi,"cooking, movies",,
+bachelor's (cs),False,2-4 years,2,i use google colab,False,"english, spanish","europe, north america",2008-06,1900-01-01 09:45:00,1900-01-01 22:00:00,summer,coffee,cat,La La Land,drama,climbing,120,
+bachelor's (am),False,4+ years,4,windows,True,"english, spanish, german, cantonese","europe, north america",2004-03,1900-01-01 08:45:00,1900-01-01 22:00:00,summer,coffee,cat,La La Land,"action, sci-fi","cooking, movies",2.5,
+master's (ds) [extension school],False,4+ years,4,windows,True,"english, japanese, hindi","europe, north america",2005-08,1900-01-01 10:30:00,1900-01-01 23:30:00,fall,energy drinks,fish,Oppenheimer,"comedy, drama",gaming,90,
+master's (ds),False,1-2 years,2,macos,True,"english, portuguese","asia, north america",2000-08,1900-01-01 06:45:00,1900-01-01 01:30:00,fall,coffee,pet rock,La La Land,,climbing,2.5,
+master's (ds),False,less than 1 year,3,macos,True,"english, german",north america,2006-05,1900-01-01 07:30:00,1900-01-01 22:45:00,fall,coffee,fish,La La Land,"action, sci-fi",climbing,45,
+master's (ds) [extension school],True,4+ years,3,windows,False,english,"asia, north america",2002-10,1900-01-01 08:30:00,1900-01-01 00:15:00,summer,coffee,pet rock,Spirited Away,"action, sci-fi",,about 2 hours,
+phd,True,less than 1 year,1,macos,True,"english, hindi","africa, asia, europe",2005-11,1900-01-01 11:30:00,1900-01-01 02:00:00,spring,energy drinks,dog,The Matrix,drama,climbing,120,😅
+bachelor's (am),True,less than 1 year,2,i use google colab,True,english,"europe, north america",1999-12,1900-01-01 06:15:00,1900-01-01 23:00:00,fall,energy drinks,dog,Interstellar,drama,"cooking, movies",45,
+master's (ds),True,less than 1 year,2,i use google colab,True,english,"europe, north america",2024-12,1900-01-01 09:00:00,1900-01-01 00:15:00,summer,tea,dog,The Matrix,"comedy, drama",,one evening,
+mit master's,True,2-4 years,3,windows,False,"japanese, english, portuguese",north america,1999-03,1900-01-01 08:45:00,1900-01-01 22:45:00,spring,energy drinks,pet rock,La La Land,comedy,"music, running",3h,
+bachelor's (cs),True,1-2 years,2,macos,True,"spanish, russian, portuguese, english","asia, north america",2000-05,1900-01-01 07:15:00,1900-01-01 23:30:00,fall,energy drinks,pet rock,Spirited Away,drama,"music, running",way too long,
+master's (ds),True,less than 1 year,2,i use google colab,False,"mandarin, english","asia, north america",1999-03,1900-01-01 07:45:00,1900-01-01 23:00:00,spring,coffee,dog,Oppenheimer,horror,,way too long,😱
+master's (ds) [extension school],False,less than 1 year,1,windows,True,"mandarin, english, french",north america,,1900-01-01 08:45:00,1900-01-01 00:15:00,fall,tea,fish,,sci-fi,"cooking, movies",2.5,🍰
+bachelor's (am),True,1-2 years,2,windows,True,"russian, english","europe, north america",1998-04,1900-01-01 06:15:00,1900-01-01 23:45:00,spring,tea,cat,Interstellar,horror,"reading, hiking",90,
+master's (ds),False,1-2 years,2,macos,False,english,"africa, asia, europe",2003-12,1900-01-01 09:45:00,1900-01-01 01:15:00,summer,energy drinks,pet rock,Spirited Away,"action, sci-fi",climbing,2.5,🧐
+phd,True,1-2 years,2,windows,False,"english, korean","europe, north america",2004-05,1900-01-01 06:15:00,1900-01-01 00:00:00,summer,tea,fish,The Matrix,sci-fi,"music, running",about 2 hours,
+master's (ds) [extension school],True,1-2 years,2,linux,True,english,north america,1998-07,1900-01-01 10:15:00,1900-01-01 00:00:00,fall,coffee,pet rock,Spirited Away,"action, sci-fi",gaming,60 min,
+bachelor's (am),True,4+ years,5,macos,False,"spanish, english, french","africa, asia, europe",2006-04,1900-01-01 06:30:00,1900-01-01 23:15:00,winter,tea,cat,Parasite,drama,climbing,about 2 hours,
+master's (ds),False,4+ years,4,macos,True,"english, korean, portuguese",north america,2004-03,1900-01-01 07:45:00,1900-01-01 00:15:00,fall,tea,fish,,drama,"reading, hiking",90,😎
+master's (ds),True,less than 1 year,2,macos,True,"mandarin, german, english, spanish",north america,2008-09,1900-01-01 10:30:00,1900-01-01 23:15:00,fall,coffee,fish,The Matrix,"action, sci-fi",climbing,about 2 hours,
+bachelor's (statistics),False,4+ years,3,linux,True,"english, korean, mandarin",north america,2007-05,1900-01-01 10:45:00,1900-01-01 23:30:00,winter,coffee,none,,"action, sci-fi","reading, hiking",90,
+bachelor's (cs),False,2-4 years,4,macos,True,"russian, german, english, korean","africa, asia, europe",2008-06,1900-01-01 11:00:00,,fall,coffee,none,Spirited Away,sci-fi,,60 min,🧐
+mit master's,True,1-2 years,3,windows,True,"korean, english","europe, north america",2007-11,1900-01-01 07:15:00,,winter,no caffeine for me!,cat,,"comedy, drama",gaming,about 2 hours,
+bachelor's (am),False,2-4 years,4,windows,False,english,north america,2007-01,1900-01-01 07:45:00,1900-01-01 02:45:00,fall,coffee,pet rock,,comedy,climbing,~90,
+bachelor's (statistics),True,1-2 years,4,windows,False,english,"africa, asia, europe",2008-02,1900-01-01 07:45:00,1900-01-01 22:00:00,winter,coffee,pet rock,Parasite,horror,"music, running",90,🧐
+bachelor's (cs),True,4+ years,3,macos,True,english,"europe, north america",,1900-01-01 08:30:00,1900-01-01 22:15:00,fall,tea,dog,The Matrix,drama,"cooking, movies",45,😅
+bachelor's (statistics),False,less than 1 year,1,wsl,True,"english, hindi","africa, asia, europe",2000-03,1900-01-01 11:15:00,1900-01-01 22:00:00,winter,tea,pet rock,,horror,"cooking, movies",90,
+master's (ds),True,1-2 years,2,macos,True,"german, portuguese, english","asia, north america",1995-03,1900-01-01 11:15:00,1900-01-01 23:30:00,fall,coffee,pet rock,La La Land,horror,"cooking, movies",90,😎
+bachelor's (am),True,2-4 years,3,linux,False,"english, hindi","asia, north america",,1900-01-01 11:30:00,1900-01-01 00:00:00,summer,coffee,dog,Oppenheimer,,"music, running",120,
+bachelor's (statistics),False,less than 1 year,2,macos,False,english,"africa, asia, europe",2000-10,1900-01-01 08:15:00,1900-01-01 23:00:00,spring,no caffeine for me!,pet rock,Oppenheimer,comedy,"cooking, movies",90,
+bachelor's (cs),True,1-2 years,2,windows,False,"english, french",north america,2007-08,1900-01-01 11:30:00,1900-01-01 00:45:00,fall,coffee,cat,La La Land,comedy,"reading, hiking",120,
+hks master's,True,1-2 years,2,macos,True,"english, japanese",north america,2008-02,1900-01-01 09:30:00,1900-01-01 23:00:00,fall,no caffeine for me!,fish,Oppenheimer,"comedy, drama",gaming,3h,
+bachelor's (cs),True,2-4 years,4,macos,True,"english, portuguese, french, hindi","asia, north america",2004-10,1900-01-01 11:00:00,1900-01-01 22:00:00,fall,coffee,pet rock,Interstellar,comedy,climbing,about 2 hours,
+mit master's,True,less than 1 year,2,linux,True,"spanish, english",north america,1999-02,1900-01-01 10:15:00,1900-01-01 23:15:00,summer,coffee,fish,The Matrix,drama,gaming,90,
+bachelor's (cs),True,1-2 years,3,macos,True,english,"europe, north america",2004-03,1900-01-01 10:45:00,1900-01-01 23:15:00,fall,coffee,fish,Interstellar,horror,"cooking, movies",90,🧐
+bachelor's (am),False,4+ years,2,windows,False,"korean, german, english, hindi","europe, north america",2006-08,1900-01-01 09:30:00,1900-01-01 00:15:00,fall,coffee,fish,,,"cooking, movies",90,
+master's (ds) [extension school],True,1-2 years,1,windows,True,"portuguese, english, japanese, spanish","asia, north america",1996-10,1900-01-01 11:00:00,1900-01-01 23:00:00,summer,tea,none,Interstellar,"comedy, drama",climbing,2.5,😎
+master's (ds),True,less than 1 year,3,macos,True,"german, english","africa, asia, europe",2007-02,1900-01-01 11:00:00,1900-01-01 23:15:00,summer,tea,dog,The Matrix,sci-fi,,120,
+master's (ds),True,2-4 years,4,windows,True,english,"europe, north america",2005-01,1900-01-01 09:30:00,1900-01-01 23:45:00,,coffee,dog,,drama,,60 min,
+bachelor's (cs),True,less than 1 year,2,i use google colab,True,"portuguese, english, french, german","africa, asia, europe",2008-09,1900-01-01 06:15:00,1900-01-01 22:15:00,fall,coffee,dog,Oppenheimer,sci-fi,"music, running",45,
+phd,True,2-4 years,3,macos,True,english,"africa, asia, europe",2000-11,1900-01-01 08:15:00,1900-01-01 23:15:00,summer,tea,fish,Interstellar,"comedy, drama",gaming,2.5,
+master's (ds),True,less than 1 year,1,linux,True,"spanish, english, cantonese","africa, asia, europe",2007-03,1900-01-01 06:45:00,1900-01-01 00:30:00,spring,no caffeine for me!,none,La La Land,sci-fi,climbing,2.5,
+mit master's,True,less than 1 year,2,macos,True,"mandarin, english, spanish","europe, north america",,1900-01-01 11:30:00,1900-01-01 03:45:00,summer,coffee,none,Interstellar,sci-fi,gaming,60 min,😅
+hks master's,False,less than 1 year,1,windows,True,english,"europe, north america",2005-08,1900-01-01 11:00:00,1900-01-01 23:00:00,spring,tea,cat,Oppenheimer,horror,,3h,🧐
+master's (ds),True,less than 1 year,1,macos,True,english,"asia, north america",2008-01,1900-01-01 06:00:00,1900-01-01 23:30:00,fall,tea,dog,,comedy,gaming,45,
+master's (ds) [extension school],True,1-2 years,2,macos,True,english,"africa, asia, europe",2003-05,1900-01-01 09:30:00,1900-01-01 23:15:00,summer,coffee,cat,,"comedy, drama","reading, hiking",,🧐
+hks master's,True,less than 1 year,2,windows,False,,"asia, north america",1995-01,1900-01-01 09:45:00,1900-01-01 23:00:00,fall,coffee,fish,,sci-fi,"cooking, movies",,🧐
+master's (ds),True,1-2 years,3,macos,False,english,north america,2008-01,1900-01-01 08:30:00,1900-01-01 01:15:00,fall,tea,dog,Parasite,comedy,"music, running",about 2 hours,
+master's (ds),False,2-4 years,4,wsl,True,english,"asia, north america",2003-03,1900-01-01 08:30:00,1900-01-01 22:30:00,summer,energy drinks,pet rock,Spirited Away,"action, sci-fi","cooking, movies",way too long,
+bachelor's (am),True,4+ years,4,windows,False,"english, spanish, german","asia, north america",1999-09,1900-01-01 11:30:00,1900-01-01 23:45:00,fall,tea,none,Interstellar,comedy,,120,
+bachelor's (am),True,1-2 years,3,macos,True,"english, german, portuguese","europe, north america",2007-08,1900-01-01 07:30:00,1900-01-01 02:45:00,fall,tea,cat,Parasite,sci-fi,,way too long,😎
+master's (ds),False,less than 1 year,3,windows,True,"english, portuguese, spanish",north america,2006-01,1900-01-01 11:00:00,1900-01-01 00:00:00,fall,coffee,none,Parasite,"action, sci-fi",,45,
+,True,less than 1 year,1,macos,True,"cantonese, hindi, english, japanese","africa, asia, europe",2008-12,1900-01-01 08:15:00,1900-01-01 00:15:00,fall,coffee,,,horror,"reading, hiking",one evening,😅
+bachelor's (cs),True,less than 1 year,1,windows,True,"german, spanish, mandarin, english","europe, north america",2004-10,1900-01-01 11:45:00,1900-01-01 00:00:00,spring,tea,fish,Oppenheimer,,"cooking, movies",way too long,😎
+bachelor's (cs),True,2-4 years,3,linux,True,english,"africa, asia, europe",1998-01,1900-01-01 11:15:00,1900-01-01 22:15:00,fall,coffee,dog,Interstellar,drama,,90,
+bachelor's (statistics),True,2-4 years,3,linux,False,english,"asia, north america",2003-11,1900-01-01 06:15:00,1900-01-01 00:00:00,summer,coffee,dog,La La Land,,"music, running",2.5,
+bachelor's (statistics),True,1-2 years,4,macos,False,english,north america,2002-12,1900-01-01 08:30:00,1900-01-01 23:00:00,winter,coffee,none,,drama,,~90,🍰
+master's (ds),True,1-2 years,2,macos,False,"portuguese, english","europe, north america",2002-03,1900-01-01 08:00:00,1900-01-01 22:30:00,fall,tea,dog,Spirited Away,horror,"cooking, movies",120,
+hks master's,True,4+ years,5,windows,False,"english, french, korean, russian",north america,1986-06,1900-01-01 07:00:00,1900-01-01 23:45:00,fall,coffee,fish,La La Land,horror,"music, running",about 2 hours,😱
+bachelor's (cs),True,2-4 years,3,macos,True,"hindi, spanish, french, english","asia, north america",1999-06,1900-01-01 10:00:00,1900-01-01 23:00:00,summer,no caffeine for me!,dog,Interstellar,comedy,"reading, hiking",60 min,🧐
+master's (ds) [extension school],True,2-4 years,3,i use google colab,False,english,north america,1999-08,1900-01-01 07:45:00,1900-01-01 00:45:00,fall,coffee,fish,Interstellar,horror,climbing,about 2 hours,
+bachelor's (statistics),True,4+ years,4,windows,False,english,"africa, asia, europe",1991-09,1900-01-01 08:30:00,1900-01-01 00:30:00,summer,coffee,pet rock,Spirited Away,"comedy, drama",,,
+master's (ds),False,less than 1 year,2,windows,True,"japanese, english, mandarin",north america,2000-09,1900-01-01 10:00:00,1900-01-01 23:15:00,fall,coffee,dog,,comedy,gaming,90,
+bachelor's (cs),False,2-4 years,4,windows,True,"english, japanese","asia, north america",2001-04,1900-01-01 10:30:00,1900-01-01 00:30:00,winter,coffee,fish,The Matrix,drama,climbing,~90,
+master's (ds),True,2-4 years,3,linux,True,"english, japanese","africa, asia, europe",2004-04,1900-01-01 06:00:00,1900-01-01 23:00:00,winter,coffee,fish,,comedy,"cooking, movies",90,😎
+bachelor's (am),False,2-4 years,4,macos,True,english,north america,2002-08,1900-01-01 10:30:00,1900-01-01 23:15:00,fall,coffee,pet rock,Oppenheimer,"comedy, drama","reading, hiking",120,🧐
+master's (ds) [extension school],True,less than 1 year,2,windows,False,english,north america,2001-03,1900-01-01 11:15:00,1900-01-01 00:30:00,summer,coffee,pet rock,Interstellar,drama,"reading, hiking",2.5,
+bachelor's (cs),True,2-4 years,3,macos,False,"japanese, portuguese, english",north america,1995-01,1900-01-01 10:45:00,1900-01-01 23:45:00,spring,tea,dog,,comedy,gaming,45,
+bachelor's (am),True,1-2 years,3,i use google colab,True,"english, portuguese",north america,1999-06,,1900-01-01 00:00:00,summer,tea,dog,Oppenheimer,comedy,,~90,😎
+phd,True,1-2 years,2,linux,True,english,"europe, north america",2000-04,1900-01-01 07:15:00,1900-01-01 02:45:00,winter,coffee,cat,Oppenheimer,,gaming,45,🧐
+master's (ds),True,less than 1 year,2,macos,True,"russian, english","asia, north america",1995-10,1900-01-01 06:30:00,1900-01-01 00:45:00,winter,energy drinks,none,Oppenheimer,sci-fi,"music, running",120,
+bachelor's (cs),False,1-2 years,1,macos,True,"english, portuguese","europe, north america",1999-04,1900-01-01 10:00:00,1900-01-01 00:15:00,winter,tea,fish,Spirited Away,sci-fi,"music, running",60 min,
+phd,True,4+ years,4,linux,True,"japanese, spanish, english, korean","africa, asia, europe",2001-12,1900-01-01 07:30:00,1900-01-01 23:30:00,summer,tea,dog,,"comedy, drama",climbing,2.5,
+bachelor's (cs),False,less than 1 year,4,windows,True,"spanish, japanese, english, cantonese","africa, asia, europe",1998-09,1900-01-01 11:15:00,1900-01-01 23:15:00,summer,tea,cat,Oppenheimer,"comedy, drama",gaming,120,
+bachelor's (cs),True,less than 1 year,3,macos,False,"english, japanese","asia, north america",1999-10,1900-01-01 08:15:00,1900-01-01 22:15:00,fall,coffee,none,La La Land,horror,"cooking, movies",,😱
+bachelor's (cs),False,1-2 years,3,macos,False,"english, korean, spanish",north america,2006-08,1900-01-01 08:00:00,1900-01-01 00:30:00,spring,tea,cat,,horror,"reading, hiking",45,
+master's (ds) [extension school],True,less than 1 year,1,windows,True,english,"africa, asia, europe",2000-12,1900-01-01 07:15:00,1900-01-01 23:00:00,summer,tea,fish,La La Land,drama,"cooking, movies",45,
+phd,True,less than 1 year,2,windows,True,english,north america,2000-09,1900-01-01 07:30:00,1900-01-01 23:15:00,spring,no caffeine for me!,none,The Matrix,sci-fi,"music, running",,😅
+phd,False,4+ years,5,macos,True,english,"europe, north america",2006-12,1900-01-01 11:00:00,1900-01-01 02:00:00,fall,tea,none,Oppenheimer,sci-fi,"reading, hiking",~90,
+master's (ds),False,less than 1 year,2,macos,True,"spanish, english, german","asia, north america",2005-11,1900-01-01 09:45:00,1900-01-01 23:45:00,winter,no caffeine for me!,none,,"comedy, drama","music, running",about 2 hours,😅
+phd,True,1-2 years,3,linux,False,english,"africa, asia, europe",2005-09,1900-01-01 09:30:00,1900-01-01 23:00:00,summer,tea,fish,Parasite,"comedy, drama",climbing,one evening,😱
+mit master's,True,less than 1 year,1,linux,True,"german, hindi, english",north america,2003-12,1900-01-01 07:15:00,1900-01-01 23:45:00,summer,tea,dog,Spirited Away,,,45,🧐
+bachelor's (am),False,2-4 years,2,windows,False,english,"asia, north america",1989-01,1900-01-01 08:45:00,1900-01-01 00:45:00,,coffee,cat,,"action, sci-fi","reading, hiking",3h,😎
+master's (ds),True,less than 1 year,1,linux,False,english,"europe, north america",2007-02,1900-01-01 08:15:00,1900-01-01 00:15:00,fall,energy drinks,pet rock,Spirited Away,sci-fi,"reading, hiking",120,
+mit master's,True,2-4 years,5,windows,False,,"asia, north america",2004-09,1900-01-01 10:00:00,1900-01-01 00:15:00,summer,no caffeine for me!,pet rock,The Matrix,"action, sci-fi",climbing,90,
+bachelor's (am),False,1-2 years,3,linux,False,"english, japanese","africa, asia, europe",2008-08,1900-01-01 08:15:00,1900-01-01 23:30:00,fall,coffee,fish,The Matrix,"comedy, drama","cooking, movies",90,
+bachelor's (cs),True,less than 1 year,2,macos,False,"english, russian","africa, asia, europe",1997-02,1900-01-01 08:00:00,1900-01-01 02:15:00,summer,coffee,none,Spirited Away,drama,"reading, hiking",90,
+mit master's,True,2-4 years,3,macos,True,english,"asia, north america",1994-05,1900-01-01 11:30:00,1900-01-01 23:00:00,spring,coffee,pet rock,La La Land,"comedy, drama","music, running",90,😎
+bachelor's (cs),True,1-2 years,1,macos,False,"japanese, spanish, french, english","asia, north america",2007-08,1900-01-01 07:00:00,1900-01-01 22:15:00,fall,coffee,pet rock,,,gaming,,
+master's (ds),False,1-2 years,3,windows,True,english,north america,2000-04,1900-01-01 10:00:00,1900-01-01 00:30:00,fall,coffee,fish,Interstellar,horror,climbing,90,
+mit master's,True,less than 1 year,1,macos,True,,"europe, north america",2008-11,1900-01-01 07:45:00,1900-01-01 02:45:00,summer,coffee,none,Interstellar,comedy,gaming,way too long,
+master's (ds),False,2-4 years,2,linux,True,"english, mandarin, portuguese","africa, asia, europe",2005-10,1900-01-01 11:30:00,1900-01-01 22:00:00,summer,coffee,dog,Oppenheimer,comedy,"music, running",,😎
+master's (ds),True,1-2 years,2,macos,True,english,north america,1998-03,1900-01-01 08:30:00,1900-01-01 22:45:00,fall,tea,dog,The Matrix,drama,"reading, hiking",about 2 hours,😅
+bachelor's (am),False,less than 1 year,2,linux,True,"spanish, portuguese, japanese, english","africa, asia, europe",2004-07,1900-01-01 06:00:00,1900-01-01 22:15:00,spring,coffee,pet rock,La La Land,"action, sci-fi",gaming,about 2 hours,🧐
+bachelor's (cs),True,4+ years,3,macos,True,"english, russian, portuguese","asia, north america",2000-06,1900-01-01 08:30:00,1900-01-01 01:00:00,winter,tea,fish,,sci-fi,"music, running",2.5,😎
+master's (ds),True,less than 1 year,1,macos,False,"english, german","asia, north america",2006-06,1900-01-01 07:45:00,1900-01-01 00:45:00,spring,no caffeine for me!,fish,,"comedy, drama","music, running",,
+master's (ds),,less than 1 year,1,macos,True,"english, japanese",north america,2004-08,1900-01-01 08:30:00,1900-01-01 01:45:00,spring,,dog,La La Land,,"cooking, movies",120,
+master's (ds),True,1-2 years,2,macos,True,"english, spanish","europe, north america",2005-03,1900-01-01 11:30:00,1900-01-01 03:00:00,summer,coffee,pet rock,,drama,"reading, hiking",,
+master's (ds) [extension school],True,less than 1 year,3,macos,True,"hindi, english","africa, asia, europe",1999-05,1900-01-01 08:15:00,1900-01-01 01:00:00,spring,tea,cat,The Matrix,horror,"cooking, movies",90,
+hks master's,True,less than 1 year,1,macos,False,"french, russian, portuguese, english",north america,1986-09,1900-01-01 09:15:00,1900-01-01 00:45:00,winter,coffee,fish,Interstellar,"comedy, drama","cooking, movies",about 2 hours,🧐
+master's (ds),True,1-2 years,2,wsl,False,"cantonese, english, korean, japanese","asia, north america",,1900-01-01 08:00:00,1900-01-01 23:30:00,summer,tea,fish,Interstellar,"action, sci-fi","cooking, movies",120,😎
+master's (ds),False,4+ years,3,macos,True,"english, hindi","africa, asia, europe",2005-11,1900-01-01 11:30:00,1900-01-01 22:00:00,spring,tea,dog,La La Land,"comedy, drama","music, running",60 min,
+phd,True,4+ years,3,windows,True,"mandarin, english",north america,,1900-01-01 08:15:00,1900-01-01 23:45:00,fall,coffee,cat,Oppenheimer,sci-fi,"cooking, movies",60 min,
+master's (ds),True,less than 1 year,1,macos,True,"german, english",north america,2000-09,1900-01-01 08:15:00,1900-01-01 22:45:00,spring,tea,pet rock,,"comedy, drama","music, running",45,
+bachelor's (statistics),True,4+ years,5,macos,False,,"africa, asia, europe",2001-09,1900-01-01 07:15:00,1900-01-01 01:15:00,spring,tea,fish,,drama,"cooking, movies",2.5,🧐
+master's (ds) [extension school],False,less than 1 year,2,windows,True,"english, korean","europe, north america",2007-09,1900-01-01 07:45:00,1900-01-01 01:00:00,spring,tea,dog,Spirited Away,comedy,"cooking, movies",60 min,🧐
+master's (ds) [extension school],True,2-4 years,2,macos,True,"german, english, russian","africa, asia, europe",1999-08,1900-01-01 08:45:00,1900-01-01 00:15:00,winter,no caffeine for me!,dog,,comedy,"reading, hiking",60 min,
+hks master's,True,less than 1 year,1,macos,True,"spanish, japanese, english, cantonese","asia, north america",2004-02,1900-01-01 09:00:00,1900-01-01 00:00:00,winter,coffee,dog,,comedy,"cooking, movies",~90,
+bachelor's (cs),True,2-4 years,3,macos,False,"mandarin, english","europe, north america",2007-04,1900-01-01 11:30:00,1900-01-01 00:00:00,fall,energy drinks,pet rock,,"action, sci-fi","reading, hiking",120,
+bachelor's (am),True,2-4 years,4,windows,True,"korean, english, german","europe, north america",2004-04,1900-01-01 07:15:00,1900-01-01 23:00:00,summer,tea,cat,Parasite,"comedy, drama","cooking, movies",3h,🧐
+bachelor's (cs),False,4+ years,4,i use google colab,False,english,"africa, asia, europe",1994-04,1900-01-01 07:15:00,1900-01-01 22:00:00,summer,coffee,fish,Spirited Away,drama,"reading, hiking",about 2 hours,😅
+bachelor's (am),False,4+ years,2,macos,False,"spanish, english","europe, north america",2004-06,1900-01-01 07:15:00,1900-01-01 03:30:00,fall,energy drinks,cat,Spirited Away,sci-fi,climbing,90,🧐
+bachelor's (am),True,less than 1 year,1,macos,False,"japanese, english","europe, north america",1988-05,1900-01-01 08:15:00,1900-01-01 22:30:00,winter,tea,cat,,"comedy, drama",climbing,2.5,
+bachelor's (cs),False,1-2 years,2,macos,True,"english, mandarin, korean","africa, asia, europe",1999-10,1900-01-01 08:00:00,1900-01-01 22:15:00,winter,coffee,none,Parasite,horror,"reading, hiking",90,🍰
+hks master's,True,2-4 years,4,macos,False,english,"africa, asia, europe",2007-03,1900-01-01 06:30:00,1900-01-01 00:30:00,fall,no caffeine for me!,cat,La La Land,sci-fi,gaming,120,😅
+master's (ds),True,less than 1 year,2,macos,False,"cantonese, portuguese, english, french","asia, north america",2005-02,1900-01-01 10:30:00,1900-01-01 22:00:00,fall,tea,fish,,"action, sci-fi","cooking, movies",2.5,
+bachelor's (statistics),False,2-4 years,3,linux,False,"german, french, english, korean","africa, asia, europe",1998-05,1900-01-01 09:45:00,1900-01-01 23:45:00,winter,coffee,pet rock,,drama,gaming,~90,
+master's (ds) [extension school],True,less than 1 year,2,macos,True,english,"europe, north america",2004-03,1900-01-01 09:00:00,1900-01-01 01:30:00,summer,,pet rock,,sci-fi,climbing,2.5,😎
+bachelor's (cs),True,less than 1 year,3,linux,True,english,north america,2003-12,1900-01-01 06:00:00,1900-01-01 23:30:00,fall,tea,fish,Oppenheimer,"comedy, drama",,way too long,🍰
+bachelor's (statistics),True,1-2 years,2,macos,True,"portuguese, cantonese, german, english",north america,2006-12,1900-01-01 09:30:00,1900-01-01 23:30:00,fall,tea,pet rock,Spirited Away,drama,climbing,about 2 hours,
+master's (ds) [extension school],False,1-2 years,3,windows,True,"english, cantonese","africa, asia, europe",2004-07,1900-01-01 09:15:00,1900-01-01 00:45:00,winter,no caffeine for me!,fish,Parasite,,"cooking, movies",about 2 hours,
+master's (ds),True,1-2 years,2,windows,True,english,"asia, north america",2006-02,1900-01-01 08:30:00,1900-01-01 22:00:00,fall,no caffeine for me!,fish,La La Land,comedy,gaming,120,
+master's (ds) [extension school],True,1-2 years,2,macos,True,"mandarin, english","europe, north america",2005-10,1900-01-01 07:30:00,1900-01-01 23:45:00,spring,coffee,fish,Spirited Away,horror,,,
+bachelor's (statistics),True,1-2 years,3,linux,True,english,"asia, north america",1991-09,1900-01-01 11:15:00,1900-01-01 02:30:00,fall,tea,pet rock,The Matrix,"action, sci-fi","cooking, movies",,😎
+bachelor's (cs),False,4+ years,2,windows,False,english,"africa, asia, europe",2002-08,1900-01-01 10:00:00,1900-01-01 23:15:00,fall,coffee,dog,,drama,"reading, hiking",120,😅
+bachelor's (am),True,less than 1 year,2,windows,True,"english, spanish, cantonese","asia, north america",1989-05,1900-01-01 11:15:00,1900-01-01 01:15:00,spring,coffee,pet rock,The Matrix,drama,"cooking, movies",way too long,
+master's (ds),True,less than 1 year,2,macos,True,"cantonese, german, english","europe, north america",1999-09,1900-01-01 10:00:00,1900-01-01 02:45:00,spring,coffee,fish,,drama,"music, running",90,🧐
+phd,True,1-2 years,3,macos,True,"german, english","europe, north america",1999-11,1900-01-01 09:15:00,1900-01-01 03:45:00,fall,coffee,fish,,"action, sci-fi",climbing,45,😅
+mit master's,True,2-4 years,2,windows,False,"english, japanese, french, hindi","africa, asia, europe",2002-03,1900-01-01 07:15:00,1900-01-01 22:00:00,fall,energy drinks,dog,Oppenheimer,"comedy, drama",gaming,one evening,
+hks master's,True,2-4 years,3,macos,True,english,"africa, asia, europe",2000-01,1900-01-01 09:15:00,1900-01-01 22:45:00,fall,tea,cat,Parasite,comedy,gaming,~90,
+bachelor's (statistics),True,less than 1 year,1,linux,True,english,"asia, north america",,1900-01-01 09:45:00,1900-01-01 22:45:00,summer,coffee,dog,Parasite,comedy,climbing,90,
+master's (ds) [extension school],True,2-4 years,4,linux,False,english,north america,2007-09,,1900-01-01 00:15:00,summer,tea,dog,The Matrix,"comedy, drama","music, running",2.5,🧐
+hks master's,True,2-4 years,3,macos,False,,"asia, north america",1989-06,1900-01-01 08:45:00,1900-01-01 00:15:00,spring,tea,fish,Parasite,drama,climbing,way too long,
+bachelor's (cs),True,2-4 years,2,windows,True,"mandarin, english, japanese","asia, north america",2002-12,1900-01-01 10:30:00,1900-01-01 01:30:00,fall,no caffeine for me!,dog,,sci-fi,"cooking, movies",120,🧐
+bachelor's (cs),True,less than 1 year,2,windows,True,,"africa, asia, europe",2004-05,1900-01-01 07:30:00,1900-01-01 22:45:00,summer,coffee,pet rock,,"comedy, drama","cooking, movies",120,
+bachelor's (cs),True,less than 1 year,1,macos,False,"english, spanish",north america,1997-09,1900-01-01 10:15:00,,fall,coffee,fish,Interstellar,horror,"cooking, movies",2.5,
+master's (ds) [extension school],False,4+ years,3,macos,True,"english, german","asia, north america",2001-09,1900-01-01 11:45:00,1900-01-01 01:45:00,fall,coffee,pet rock,Parasite,horror,"music, running",,😎
+master's (ds) [extension school],True,4+ years,4,macos,False,,north america,2000-05,1900-01-01 06:30:00,1900-01-01 00:00:00,fall,coffee,pet rock,La La Land,drama,"reading, hiking",way too long,
+bachelor's (cs),True,less than 1 year,2,macos,True,"spanish, german, korean, english","asia, north america",2007-09,1900-01-01 11:45:00,1900-01-01 23:45:00,fall,coffee,none,Spirited Away,comedy,"cooking, movies",45,
+mit master's,True,1-2 years,1,windows,False,"korean, english","asia, north america",1988-12,1900-01-01 06:15:00,1900-01-01 23:30:00,summer,coffee,fish,Spirited Away,horror,"music, running",90,
+bachelor's (cs),True,less than 1 year,1,windows,True,english,"asia, north america",1989-10,1900-01-01 08:00:00,1900-01-01 23:15:00,summer,coffee,dog,Oppenheimer,sci-fi,"cooking, movies",one evening,🧐
+master's (ds),True,1-2 years,2,macos,True,"japanese, russian, hindi, english","africa, asia, europe",2002-10,1900-01-01 06:45:00,1900-01-01 22:30:00,fall,coffee,none,Oppenheimer,"comedy, drama","cooking, movies",,😎
+bachelor's (cs),True,less than 1 year,2,i use google colab,True,"german, english",north america,2005-08,1900-01-01 10:00:00,1900-01-01 22:00:00,winter,coffee,fish,,drama,"cooking, movies",60 min,🍰
+master's (ds),True,less than 1 year,3,macos,False,english,"africa, asia, europe",2007-09,1900-01-01 08:45:00,1900-01-01 01:00:00,winter,tea,pet rock,The Matrix,comedy,"reading, hiking",~90,
+bachelor's (cs),True,less than 1 year,3,macos,False,english,"africa, asia, europe",,1900-01-01 08:45:00,1900-01-01 22:00:00,spring,tea,none,Oppenheimer,drama,,,😎
+master's (ds),False,4+ years,4,macos,True,"german, french, portuguese, english",north america,2008-04,1900-01-01 09:30:00,1900-01-01 01:45:00,fall,coffee,fish,,comedy,"reading, hiking",about 2 hours,🍰
+bachelor's (statistics),False,1-2 years,2,macos,True,english,"europe, north america",2004-11,1900-01-01 09:15:00,1900-01-01 22:30:00,fall,coffee,fish,Spirited Away,"action, sci-fi","cooking, movies",120,🧐
+master's (ds),False,less than 1 year,1,i use google colab,False,"english, portuguese, german, french","europe, north america",2008-10,1900-01-01 06:15:00,1900-01-01 22:45:00,summer,tea,none,Spirited Away,"comedy, drama",,90,🍰
+phd,True,1-2 years,2,windows,False,"german, english, korean","africa, asia, europe",2007-06,1900-01-01 06:30:00,1900-01-01 22:45:00,fall,energy drinks,pet rock,Interstellar,comedy,gaming,90,🧐
+bachelor's (statistics),False,1-2 years,3,macos,False,"spanish, english, korean, japanese",north america,2025-11,1900-01-01 11:30:00,1900-01-01 23:15:00,fall,coffee,pet rock,La La Land,comedy,"cooking, movies",2.5,🍰
+mit master's,False,1-2 years,3,linux,True,"portuguese, english",north america,1987-07,1900-01-01 09:00:00,1900-01-01 00:00:00,fall,tea,none,The Matrix,comedy,climbing,120,😅
+bachelor's (am),False,1-2 years,1,i use google colab,False,"korean, mandarin, english","europe, north america",2007-08,1900-01-01 06:45:00,1900-01-01 23:15:00,fall,no caffeine for me!,fish,Oppenheimer,"comedy, drama","music, running",about 2 hours,
+bachelor's (statistics),True,1-2 years,3,windows,False,"cantonese, french, japanese, english",north america,2004-04,1900-01-01 06:45:00,1900-01-01 01:00:00,summer,tea,cat,La La Land,"comedy, drama","music, running",about 2 hours,
+bachelor's (cs),True,less than 1 year,2,windows,False,"french, english","asia, north america",1995-05,1900-01-01 06:15:00,1900-01-01 00:00:00,winter,energy drinks,pet rock,The Matrix,sci-fi,gaming,~90,
+bachelor's (cs),False,1-2 years,3,wsl,True,"english, japanese",north america,1991-11,1900-01-01 07:45:00,1900-01-01 23:45:00,fall,no caffeine for me!,cat,Spirited Away,drama,climbing,about 2 hours,😎
+bachelor's (cs),False,4+ years,5,macos,True,"french, spanish, cantonese, english","africa, asia, europe",1994-12,1900-01-01 10:30:00,1900-01-01 23:45:00,spring,coffee,pet rock,,horror,,3h,
+phd,True,1-2 years,3,windows,True,"japanese, english, russian","asia, north america",2002-05,,1900-01-01 23:15:00,spring,no caffeine for me!,,Parasite,horror,gaming,60 min,
+bachelor's (cs),True,4+ years,4,windows,False,"english, japanese","europe, north america",,1900-01-01 09:00:00,1900-01-01 00:00:00,summer,coffee,cat,Interstellar,drama,,,🍰
+master's (ds),True,less than 1 year,2,windows,True,"mandarin, hindi, russian, english",north america,2001-03,1900-01-01 10:15:00,1900-01-01 00:45:00,summer,tea,dog,Parasite,sci-fi,"reading, hiking",2.5,
+master's (ds),True,less than 1 year,1,macos,True,english,"europe, north america",1996-04,1900-01-01 11:15:00,1900-01-01 00:45:00,fall,coffee,pet rock,Oppenheimer,sci-fi,"music, running",90,
+master's (ds),True,4+ years,3,macos,True,"english, portuguese, spanish, cantonese","asia, north america",1988-08,1900-01-01 10:45:00,1900-01-01 22:45:00,spring,coffee,,La La Land,"comedy, drama","music, running",90,
+bachelor's (am),True,1-2 years,3,linux,True,"english, portuguese, korean, german","europe, north america",1993-12,1900-01-01 11:15:00,1900-01-01 01:15:00,fall,coffee,none,Interstellar,comedy,"reading, hiking",one evening,🧐
+bachelor's (cs),False,1-2 years,3,linux,False,"english, korean","africa, asia, europe",1991-02,1900-01-01 07:30:00,1900-01-01 01:15:00,fall,no caffeine for me!,dog,Spirited Away,horror,,120,😎
+bachelor's (cs),True,1-2 years,2,macos,False,english,"africa, asia, europe",2007-08,1900-01-01 11:15:00,1900-01-01 00:00:00,summer,coffee,dog,Parasite,drama,climbing,about 2 hours,
+master's (ds),False,less than 1 year,2,windows,False,"english, cantonese","europe, north america",,1900-01-01 08:45:00,1900-01-01 22:00:00,winter,coffee,none,La La Land,horror,"music, running",90,
+phd,True,2-4 years,3,windows,False,english,"europe, north america",2004-02,1900-01-01 09:00:00,1900-01-01 23:45:00,spring,tea,fish,The Matrix,horror,"cooking, movies",120,
+bachelor's (am),False,1-2 years,4,macos,True,"german, english",north america,2008-11,1900-01-01 08:15:00,1900-01-01 23:15:00,summer,energy drinks,dog,La La Land,,"music, running",~90,
+bachelor's (statistics),True,1-2 years,3,macos,False,"spanish, english, mandarin","europe, north america",2003-07,1900-01-01 09:00:00,1900-01-01 23:45:00,winter,coffee,none,The Matrix,drama,gaming,~90,
+master's (ds) [extension school],True,2-4 years,4,macos,True,"french, english","asia, north america",2008-03,1900-01-01 09:45:00,1900-01-01 22:00:00,winter,tea,pet rock,Interstellar,"action, sci-fi",climbing,3h,
+bachelor's (cs),True,4+ years,4,windows,True,"japanese, english","asia, north america",2004-12,1900-01-01 06:00:00,1900-01-01 23:15:00,,tea,none,,comedy,"music, running",,
+master's (ds),True,4+ years,3,macos,True,english,"asia, north america",2001-01,1900-01-01 06:00:00,1900-01-01 23:15:00,fall,no caffeine for me!,dog,Spirited Away,sci-fi,,~90,
+hks master's,True,1-2 years,2,windows,True,"english, hindi","europe, north america",2005-12,1900-01-01 08:00:00,1900-01-01 01:00:00,fall,coffee,fish,Spirited Away,drama,"cooking, movies",60 min,🧐
+bachelor's (am),False,less than 1 year,3,windows,True,"english, japanese, russian, spanish",north america,2001-02,1900-01-01 11:00:00,1900-01-01 01:15:00,spring,tea,none,,sci-fi,gaming,90,
+bachelor's (statistics),True,less than 1 year,2,wsl,False,"english, french, german, japanese",north america,1997-04,1900-01-01 07:00:00,1900-01-01 00:30:00,fall,coffee,none,Interstellar,"comedy, drama","music, running",2.5,🍰
+bachelor's (statistics),True,1-2 years,4,windows,True,"portuguese, english","asia, north america",1989-06,1900-01-01 06:30:00,1900-01-01 22:30:00,fall,no caffeine for me!,,The Matrix,"action, sci-fi",gaming,45,
+master's (ds),True,less than 1 year,2,macos,False,english,"africa, asia, europe",2008-03,1900-01-01 06:45:00,1900-01-01 23:30:00,summer,tea,cat,Oppenheimer,drama,,90,
+phd,False,less than 1 year,1,macos,True,"french, english","europe, north america",2000-04,1900-01-01 11:30:00,1900-01-01 02:30:00,summer,coffee,pet rock,,"action, sci-fi",climbing,120,
+master's (ds),True,less than 1 year,2,windows,False,english,north america,2006-04,1900-01-01 09:00:00,1900-01-01 23:45:00,winter,no caffeine for me!,dog,Oppenheimer,"comedy, drama","reading, hiking",about 2 hours,😎
+bachelor's (statistics),False,4+ years,3,macos,False,english,"africa, asia, europe",2001-02,1900-01-01 10:00:00,1900-01-01 22:45:00,fall,no caffeine for me!,cat,Spirited Away,"comedy, drama",gaming,3h,😅
+bachelor's (statistics),True,less than 1 year,2,macos,True,english,north america,1990-03,,1900-01-01 23:30:00,summer,coffee,fish,The Matrix,sci-fi,climbing,one evening,😎
+master's (ds),False,less than 1 year,1,macos,True,"russian, english","africa, asia, europe",2003-02,1900-01-01 08:15:00,1900-01-01 23:00:00,summer,coffee,pet rock,Spirited Away,horror,"reading, hiking",about 2 hours,
+master's (ds),True,4+ years,4,macos,True,english,"asia, north america",1991-03,1900-01-01 09:45:00,1900-01-01 02:15:00,summer,coffee,none,,sci-fi,gaming,45,
+bachelor's (cs),True,1-2 years,2,macos,True,"spanish, russian, english","europe, north america",2005-04,1900-01-01 11:15:00,1900-01-01 03:15:00,summer,coffee,pet rock,Interstellar,"action, sci-fi","reading, hiking",way too long,🍰
+master's (ds),True,2-4 years,3,macos,False,"hindi, mandarin, english, russian","asia, north america",2001-04,1900-01-01 11:15:00,1900-01-01 22:15:00,spring,coffee,dog,,"comedy, drama",,about 2 hours,😅
+master's (ds),True,1-2 years,2,macos,True,english,"africa, asia, europe",2006-12,1900-01-01 11:30:00,1900-01-01 00:15:00,winter,energy drinks,pet rock,Oppenheimer,horror,"reading, hiking",about 2 hours,🍰
+bachelor's (cs),True,4+ years,3,i use google colab,True,english,"africa, asia, europe",2025-04,1900-01-01 08:45:00,,summer,coffee,cat,Spirited Away,drama,"reading, hiking",120,
+master's (ds) [extension school],True,4+ years,3,macos,False,"german, english",north america,1987-09,1900-01-01 08:00:00,,fall,tea,none,Oppenheimer,,gaming,60 min,
+bachelor's (cs),True,1-2 years,3,i use google colab,True,english,"europe, north america",1994-07,1900-01-01 09:15:00,1900-01-01 01:00:00,fall,tea,fish,Parasite,sci-fi,,60 min,🍰
+,False,4+ years,5,macos,False,english,"africa, asia, europe",2008-08,1900-01-01 11:45:00,1900-01-01 01:30:00,fall,no caffeine for me!,pet rock,Parasite,sci-fi,,about 2 hours,😅
+master's (ds),True,1-2 years,3,windows,False,"german, portuguese, english, russian","asia, north america",1999-03,1900-01-01 06:45:00,1900-01-01 23:15:00,spring,energy drinks,pet rock,Parasite,comedy,,45,🍰
+master's (ds) [extension school],False,1-2 years,3,windows,True,"mandarin, english",north america,,1900-01-01 08:15:00,1900-01-01 22:30:00,fall,tea,cat,,"comedy, drama",gaming,3h,
+master's (ds),True,2-4 years,4,windows,False,english,"africa, asia, europe",2001-11,1900-01-01 08:15:00,1900-01-01 02:30:00,summer,coffee,fish,Oppenheimer,sci-fi,,60 min,😅
+master's (ds),True,1-2 years,1,linux,True,english,north america,1998-07,1900-01-01 11:15:00,1900-01-01 02:45:00,spring,coffee,cat,Interstellar,horror,gaming,2.5,🧐
+bachelor's (cs),False,less than 1 year,1,macos,False,english,"africa, asia, europe",,1900-01-01 06:30:00,1900-01-01 00:45:00,fall,tea,fish,,"comedy, drama","music, running",way too long,😎
+master's (ds),True,1-2 years,2,windows,False,english,north america,,1900-01-01 07:45:00,1900-01-01 01:45:00,summer,coffee,fish,Interstellar,"comedy, drama",gaming,45,
+bachelor's (am),False,less than 1 year,1,macos,True,"english, mandarin, japanese, french","europe, north america",2002-02,1900-01-01 07:15:00,1900-01-01 23:45:00,summer,coffee,none,,"comedy, drama","music, running",3h,
+bachelor's (cs),False,4+ years,3,windows,True,english,north america,2008-08,1900-01-01 06:00:00,1900-01-01 23:15:00,fall,coffee,fish,Interstellar,sci-fi,"music, running",,🧐
+master's (ds) [extension school],True,1-2 years,1,windows,True,"french, japanese, english","asia, north america",2006-08,1900-01-01 06:00:00,1900-01-01 02:00:00,fall,tea,cat,,comedy,"reading, hiking",3h,
+bachelor's (cs),True,less than 1 year,1,macos,True,"japanese, english",north america,2006-06,1900-01-01 08:15:00,1900-01-01 23:00:00,spring,coffee,pet rock,Spirited Away,horror,"music, running",about 2 hours,
+bachelor's (am),False,4+ years,3,macos,True,"korean, cantonese, english","asia, north america",1990-01,1900-01-01 08:00:00,1900-01-01 23:45:00,summer,tea,cat,The Matrix,horror,,,
+bachelor's (am),True,4+ years,4,macos,True,,north america,2001-02,1900-01-01 06:45:00,1900-01-01 23:45:00,summer,coffee,none,Oppenheimer,comedy,"cooking, movies",45,
+master's (ds),True,2-4 years,3,windows,True,"english, hindi","africa, asia, europe",1985-01,1900-01-01 10:00:00,1900-01-01 23:00:00,fall,coffee,cat,Spirited Away,"comedy, drama","music, running",about 2 hours,😎
+phd,True,1-2 years,1,macos,False,"english, japanese","africa, asia, europe",2007-06,1900-01-01 07:45:00,1900-01-01 23:00:00,fall,tea,cat,La La Land,horror,gaming,120,😎
+master's (ds) [extension school],True,1-2 years,2,windows,False,english,"europe, north america",1999-10,1900-01-01 10:30:00,1900-01-01 01:45:00,fall,tea,fish,Oppenheimer,,"cooking, movies",~90,🧐
+bachelor's (cs),True,less than 1 year,4,windows,True,english,"africa, asia, europe",2001-08,,1900-01-01 00:45:00,summer,no caffeine for me!,dog,Oppenheimer,"action, sci-fi","cooking, movies",45,
+bachelor's (cs),True,less than 1 year,2,macos,False,english,"asia, north america",1999-04,1900-01-01 11:30:00,1900-01-01 22:15:00,fall,tea,none,Interstellar,,climbing,way too long,😎
+bachelor's (am),True,less than 1 year,1,wsl,True,"french, russian, english, spanish","africa, asia, europe",1991-08,1900-01-01 10:15:00,1900-01-01 23:00:00,spring,energy drinks,fish,La La Land,drama,,60 min,
+,,1-2 years,2,windows,True,english,"asia, north america",2008-08,1900-01-01 11:30:00,1900-01-01 01:15:00,fall,tea,fish,,drama,"cooking, movies",2.5,
+master's (ds),True,2-4 years,5,windows,True,"english, korean",north america,2003-07,1900-01-01 08:45:00,1900-01-01 01:15:00,summer,coffee,pet rock,La La Land,horror,climbing,3h,
+master's (ds),True,less than 1 year,2,macos,False,"french, hindi, english, russian","europe, north america",2001-06,1900-01-01 10:15:00,1900-01-01 23:00:00,fall,tea,fish,Parasite,horror,gaming,60 min,😎
+bachelor's (am),True,less than 1 year,3,macos,True,"english, hindi","asia, north america",2006-09,,1900-01-01 01:30:00,fall,tea,cat,Spirited Away,"action, sci-fi","cooking, movies",2.5,
+master's (ds),True,2-4 years,4,macos,True,"cantonese, russian, hindi, english","asia, north america",2002-12,1900-01-01 10:00:00,,,tea,,Oppenheimer,comedy,climbing,about 2 hours,
+bachelor's (statistics),True,4+ years,5,windows,False,"french, english",north america,2007-04,1900-01-01 09:00:00,1900-01-01 23:15:00,fall,coffee,cat,The Matrix,"comedy, drama","reading, hiking",90,
+phd,True,4+ years,4,macos,False,"hindi, mandarin, japanese, english","europe, north america",2006-02,1900-01-01 09:30:00,1900-01-01 00:45:00,winter,tea,dog,,sci-fi,climbing,about 2 hours,🧐
+master's (ds),True,2-4 years,3,macos,True,"russian, english, japanese, hindi",north america,1986-11,,1900-01-01 22:45:00,fall,no caffeine for me!,none,La La Land,comedy,,45,
+master's (ds) [extension school],True,4+ years,3,windows,False,"cantonese, english","africa, asia, europe",2002-12,1900-01-01 06:00:00,1900-01-01 22:45:00,spring,coffee,pet rock,La La Land,comedy,climbing,one evening,🍰
+hks master's,True,1-2 years,2,macos,False,"french, english",north america,1987-11,1900-01-01 11:00:00,1900-01-01 23:15:00,winter,tea,pet rock,Oppenheimer,"action, sci-fi",,,😱
+master's (ds),True,2-4 years,3,macos,True,english,north america,2001-09,1900-01-01 10:45:00,1900-01-01 00:15:00,summer,coffee,pet rock,,comedy,,2.5,🧐
+master's (ds),True,1-2 years,3,macos,False,english,"europe, north america",2000-07,1900-01-01 11:45:00,1900-01-01 01:15:00,summer,coffee,dog,Interstellar,sci-fi,"music, running",120,
+master's (ds) [extension school],False,1-2 years,1,macos,True,"german, korean, english","europe, north america",2006-12,1900-01-01 09:45:00,1900-01-01 02:00:00,summer,energy drinks,cat,,horror,gaming,one evening,
+master's (ds),False,4+ years,3,macos,False,"english, hindi","europe, north america",1998-07,1900-01-01 09:45:00,1900-01-01 01:45:00,fall,coffee,dog,Parasite,comedy,"music, running",one evening,
+mit master's,True,1-2 years,2,macos,True,"english, spanish","africa, asia, europe",2003-03,1900-01-01 11:30:00,1900-01-01 22:30:00,spring,coffee,none,Oppenheimer,"action, sci-fi",climbing,3h,😅
+bachelor's (statistics),True,2-4 years,3,wsl,True,english,north america,2002-06,1900-01-01 08:00:00,1900-01-01 01:15:00,spring,coffee,fish,,"action, sci-fi","reading, hiking",one evening,🧐
+bachelor's (statistics),True,1-2 years,2,windows,True,"english, russian, hindi, portuguese","europe, north america",2006-04,1900-01-01 07:00:00,,winter,tea,none,,"action, sci-fi",climbing,45,
+bachelor's (cs),True,less than 1 year,2,macos,True,english,"asia, north america",2006-02,1900-01-01 08:15:00,1900-01-01 22:00:00,spring,tea,fish,The Matrix,"comedy, drama",climbing,90,
+mit master's,True,less than 1 year,2,windows,True,,"asia, north america",,1900-01-01 11:15:00,1900-01-01 23:45:00,fall,tea,dog,Interstellar,,"music, running",~90,🧐
+bachelor's (cs),True,1-2 years,2,macos,True,english,north america,2006-02,1900-01-01 07:15:00,1900-01-01 23:45:00,fall,coffee,none,Interstellar,horror,climbing,120,
+mit master's,False,2-4 years,2,windows,False,"mandarin, english, spanish, cantonese","asia, north america",1995-12,1900-01-01 06:00:00,1900-01-01 01:45:00,fall,coffee,cat,Parasite,comedy,"reading, hiking",about 2 hours,😎

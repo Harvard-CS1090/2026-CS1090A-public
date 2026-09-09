@@ -4,7 +4,7 @@
 #
 # Through uv, the way HW0 Part 1 does it -- NOT bare `pip install`, which puts
 # packages in whatever Python your system happens to use. See HW0 Part 1.
-pandas>=2.2,<3
+pandas>=3,<4
 matplotlib>=3.10,<4
 seaborn>=0.13,<0.14
 numpy>=2.0,<3

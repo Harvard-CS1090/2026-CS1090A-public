@@ -9,8 +9,8 @@ Instructors: Pavlos Protopapas, Kevin Rader · Preceptor: Chris Gumb
 **Cloning is the recommended path.** Each notebook reads its inputs from the `data/` folder beside it, so it needs the folder, not just the file:
 
 ```bash
-git clone --branch sec02-2026 https://github.com/Harvard-CS1090/2026-CS1090A-public
-cd 2026-CS1090A-public/sec01
+git clone --branch sec02-2026b https://github.com/Harvard-CS1090/2026-CS1090A-public
+cd 2026-CS1090A-public/sec02
 uv run jupyter lab
 ```
 
@@ -35,7 +35,7 @@ jupyter lab
 
 Fetch a page with `requests`, parse it with BeautifulSoup, cache it to disk, and pin a Wayback snapshot so the result still runs next year.
 
-[Student](sec01/cs1090a_sec01_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec02-2026/sec01/cs1090a_sec01_student.ipynb)
+[Student](sec01/cs1090a_sec01_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec02-2026b/sec01/cs1090a_sec01_student.ipynb)
 
 Supplemental: [mediawiki api](sec01/supplemental/mediawiki_api.ipynb)
 
@@ -43,7 +43,7 @@ Supplemental: [mediawiki api](sec01/supplemental/mediawiki_api.ipynb)
 
 Build a DataFrame, give each column the right dtype, audit it for duplicates and implausible values, and plot it — including how to recognise a chart that runs without error and still misleads.
 
-[Student](sec02/cs1090a_sec02_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec02-2026/sec02/cs1090a_sec02_student.ipynb)
+[Student](sec02/cs1090a_sec02_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec02-2026b/sec02/cs1090a_sec02_student.ipynb)
 
 Supplemental: [advanced visualization](sec02/supplemental/advanced_visualization.ipynb) · [duckdb sql on files](sec02/supplemental/duckdb_sql_on_files.ipynb) · [matplotlib seaborn reference](sec02/supplemental/matplotlib_seaborn_reference.ipynb) · [pandas quickstart](sec02/supplemental/pandas_quickstart.ipynb) · [polars intro](sec02/supplemental/polars_intro.ipynb)
 
