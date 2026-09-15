@@ -1,0 +1,33 @@
+# CS1090A Section 3 environment -- run the notebook with uv (https://docs.astral.sh/uv/):
+#
+#   uv sync
+#   uv run jupyter lab
+#
+# Deliberately narrow: exactly what the section notebook imports, and
+# nothing else. A section notebook is a 60-minute artifact that a TF may need to
+# stand up on a strange laptop ten minutes before class -- it should not pull the
+# whole course stack (~2.4G) to do it. Students who want parity with FASOnDemand
+# should use the `full` extra in the HW0 pyproject instead.
+#
+# Upper bounds keep a mid-semester release from surprising a TF between sections.
+[project]
+name = "cs1090a-sec03"
+version = "2026.0"
+description = "CS1090A Fall 2026 Section 3 -- regression and one-hot encoding"
+requires-python = ">=3.12,<3.14"
+
+dependencies = [
+    "numpy>=2.3,<3",
+    "pandas>=3,<4",
+    "matplotlib>=3.10,<4",
+    "seaborn>=0.13.2,<0.14",
+    "scikit-learn>=1.7,<2",
+    "jupyterlab>=4",
+]
+
+# Only needed to rebuild the student notebook -- not to run the section.
+[project.optional-dependencies]
+authoring = [
+    "nbconvert>=7.16",
+    "nbformat>=5.10",
+]

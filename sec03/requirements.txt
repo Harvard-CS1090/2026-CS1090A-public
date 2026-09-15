@@ -1,0 +1,12 @@
+# CS1090A section dependencies -- generated from pyproject.toml at publish time.
+#
+#   uv venv && uv pip install -r requirements.txt
+#
+# Through uv, the way HW0 Part 1 does it -- NOT bare `pip install`, which puts
+# packages in whatever Python your system happens to use. See HW0 Part 1.
+numpy>=2.3,<3
+pandas>=3,<4
+matplotlib>=3.10,<4
+seaborn>=0.13.2,<0.14
+scikit-learn>=1.7,<2
+jupyterlab>=4
