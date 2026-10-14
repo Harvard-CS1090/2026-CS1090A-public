@@ -9,8 +9,8 @@ Instructors: Pavlos Protopapas, Kevin Rader · Preceptor: Chris Gumb
 **Cloning is the recommended path.** Each notebook reads its inputs from the `data/` folder beside it, so it needs the folder, not just the file:
 
 ```bash
-git clone --branch sec06-2026 https://github.com/Harvard-CS1090/2026-CS1090A-public
-cd 2026-CS1090A-public/sec06
+git clone --branch sec07-2026 https://github.com/Harvard-CS1090/2026-CS1090A-public
+cd 2026-CS1090A-public/sec07
 uv run jupyter lab
 ```
 
@@ -35,7 +35,7 @@ jupyter lab
 
 Fetch a page with `requests`, parse it with BeautifulSoup, cache it to disk, and pin a Wayback snapshot so the result still runs next year.
 
-[Student](sec01/cs1090a_sec01_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec06-2026/sec01/cs1090a_sec01_student.ipynb)
+[Student](sec01/cs1090a_sec01_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec01/cs1090a_sec01_student.ipynb)
 
 Supplemental: [mediawiki api](sec01/supplemental/mediawiki_api.ipynb)
 
@@ -43,7 +43,7 @@ Supplemental: [mediawiki api](sec01/supplemental/mediawiki_api.ipynb)
 
 Build a DataFrame, give each column the right dtype, audit it for duplicates and implausible values, and plot it — including how to recognise a chart that runs without error and still misleads.
 
-[Student](sec02/cs1090a_sec02_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec06-2026/sec02/cs1090a_sec02_student.ipynb)
+[Student](sec02/cs1090a_sec02_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec02/cs1090a_sec02_student.ipynb)
 
 Supplemental: [advanced visualization](sec02/supplemental/advanced_visualization.ipynb) · [duckdb sql on files](sec02/supplemental/duckdb_sql_on_files.ipynb) · [matplotlib seaborn reference](sec02/supplemental/matplotlib_seaborn_reference.ipynb) · [pandas quickstart](sec02/supplemental/pandas_quickstart.ipynb) · [polars intro](sec02/supplemental/polars_intro.ipynb)
 
@@ -51,25 +51,31 @@ Supplemental: [advanced visualization](sec02/supplemental/advanced_visualization
 
 Fit a straight line and k-nearest-neighbours through one predictor, read the slope in the units of the target, then one-hot encode a categorical column and watch a coefficient change sign when it is added — the same models run without error either way.
 
-[Student](sec03/cs1090a_sec03_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec06-2026/sec03/cs1090a_sec03_student.ipynb)
+[Student](sec03/cs1090a_sec03_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec03/cs1090a_sec03_student.ipynb)
 
 ### Section 4 — Cross-validation and Model Selection
 
 Fit polynomial models of rising degree, watch a single validation split crown a different winner each time it is redrawn, then build k-fold cross-validation by hand and use the spread across the folds to choose a degree — before opening the test set once, at the end.
 
-[Student](sec04/cs1090a_sec04_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec06-2026/sec04/cs1090a_sec04_student.ipynb)
+[Student](sec04/cs1090a_sec04_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec04/cs1090a_sec04_student.ipynb)
 
 ### Section 5 — Bootstrap Uncertainty and Regularization
 
 Fit a linear model with ten predictors to diabetes data and use the bootstrap to measure how much each coefficient changes from one resample of the patients to the next. Then add squared and interaction terms, see the training score rise while the validation score falls, and use cross-validation on the training rows to choose a ridge or lasso penalty.
 
-[Student](sec05/cs1090a_sec05_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec06-2026/sec05/cs1090a_sec05_student.ipynb)
+[Student](sec05/cs1090a_sec05_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec05/cs1090a_sec05_student.ipynb)
 
 ### Section 6 — Missing Data and Principal Components
 
 Delete body-mass values from the penguin data under three different rules, then compare complete-case analysis, mean imputation and regression imputation against the values that were deleted. Then run principal component analysis on the four measurements, see why the columns must be standardized first, and choose how many components to keep.
 
-[Student](sec06/cs1090a_sec06_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec06-2026/sec06/cs1090a_sec06_student.ipynb)
+[Student](sec06/cs1090a_sec06_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec06/cs1090a_sec06_student.ipynb)
+
+### Section 7 — Logistic Regression
+
+Predict whether a breast tumor is malignant from measurements of its cell nuclei. A least-squares line fitted to the 0/1 outcome gives values below 0 and above 1, so fit logistic regression instead and read its slope as an odds ratio. Then draw the decision boundary for two predictors, curve it with polynomial terms and an L1 penalty, use permutation importance to find which of ten predictors the model relies on, and choose a classification threshold from out-of-fold predictions before using the test set once.
+
+[Student](sec07/cs1090a_sec07_student.ipynb) · [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Harvard-CS1090/2026-CS1090A-public/blob/sec07-2026/sec07/cs1090a_sec07_student.ipynb)
 
 ## A note on the data files
 
