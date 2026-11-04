@@ -1,0 +1,48 @@
+# CS1090A Section 9 environment -- run the notebook with uv (https://docs.astral.sh/uv/):
+#
+#   uv sync
+#   uv run jupyter lab
+#
+# Deliberately narrow: exactly what the section notebook imports, and
+# nothing else. A section notebook is a 60-minute artifact that a TF may need to
+# stand up on a strange laptop ten minutes before class -- it should not pull the
+# whole course stack (~2.4G) to do it. Students who want parity with FASOnDemand
+# should use the `full` extra in the HW0 pyproject instead.
+#
+# This is the first section that needs PyMC. Two pins are load-bearing and were
+# measured on 2026-09-13: with numpy 2.5 the resolver picks numba 0.63.0b1, which
+# imports np.row_stack (removed in 2.5) and pymc fails at its first pm.sample. Holding
+# numpy below 2.4 and numba below 0.63 gives numpy 2.3.5 / numba 0.62.1, under which a
+# two-chain model samples in about fourteen seconds including compile.
+#
+# Upper bounds keep a mid-semester release from surprising a TF between sections.
+[project]
+name = "cs1090a-sec09"
+version = "2026.0"
+description = "CS1090A Fall 2026 Section 9 -- Bayesian logistic regression, sampling and hierarchical models"
+requires-python = ">=3.12,<3.14"
+
+dependencies = [
+    "numpy>=2.3,<2.4",
+    "numba>=0.62,<0.63",
+    "scipy>=1.16,<2",
+    "pandas>=3,<4",
+    "matplotlib>=3.10,<4",
+    "seaborn>=0.13.2,<0.14",
+    "scikit-learn>=1.7,<2",
+    "pymc>=5.20,<6",
+    "arviz>=0.20,<1",
+    "jupyterlab>=4",
+]
+
+# Only needed to rebuild the student notebook or export the .md renderings --
+# not to run the section.
+[project.optional-dependencies]
+authoring = [
+    "nbconvert>=7.16",
+    "nbformat>=5.10",
+]
+
+ai-tools = [
+    "notebook-intelligence>=6.1,<7",
+]
